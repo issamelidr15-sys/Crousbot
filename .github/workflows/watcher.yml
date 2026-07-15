@@ -1,4 +1,4 @@
-ame: Surveillance logements CROUS
+name: Surveillance logements CROUS
 
 on:
   schedule:
