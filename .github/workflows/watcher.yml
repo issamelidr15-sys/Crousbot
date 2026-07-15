@@ -1,5 +1,4 @@
 name: Surveillance logements CROUS
-
 on:
   schedule:
     - cron: "*/5 * * * *"   # toutes les 5 minutes
