@@ -1,0 +1,39 @@
+ame: Surveillance logements CROUS
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # toutes les 5 minutes
+  workflow_dispatch:         # permet de lancer le robot manuellement pour tester
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer la vérification
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          SEARCH_URL: ${{ secrets.SEARCH_URL }}
+        run: python crous_watcher.py
+
+      - name: Sauvegarder la mémoire des logements déjà vus
+        run: |
+          git config user.name "crous-bot"
+          git config user.email "crous-bot@users.noreply.github.com"
+          git add logements_connus.json
+          git diff --quiet --cached || git commit -m "Mise a jour memoire logements"
+          git push
