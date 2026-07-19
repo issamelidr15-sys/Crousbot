@@ -31,10 +31,6 @@
     "titre": "Montlucon",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/581"
   },
-  "291": {
-    "titre": "RÃ©sidence de Brive",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
-  },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
@@ -59,18 +55,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "2191": {
-    "titre": "TANNERIES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191"
-  },
-  "2688": {
-    "titre": "GALILEE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
-  },
   "1491": {
     "titre": "La GRAVIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491"
@@ -83,16 +67,32 @@
     "titre": "MAISON DES ETUDIANTS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
-  "943": {
-    "titre": "RESIDENCE JULES CAISSO",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/943"
+  "302": {
+    "titre": "GASTON PHOEBUS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302"
   },
-  "540": {
-    "titre": "CU VELODROME",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540"
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   },
-  "494": {
-    "titre": "LE THELEME",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/494"
+  "910": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "2688": {
+    "titre": "GALILEE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
+  },
+  "3248": {
+    "titre": "FONTBELLEAU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+  },
+  "2191": {
+    "titre": "TANNERIES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191"
   }
 }
