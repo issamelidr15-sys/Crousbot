@@ -11,21 +11,9 @@
     "titre": "CU Lann-Trussac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2102"
   },
-  "2191": {
-    "titre": "TANNERIES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191"
-  },
-  "2608": {
-    "titre": "BOSQUET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
-  },
   "2688": {
     "titre": "GALILEE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
-  },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   },
   "506": {
     "titre": "LE VELUM",
@@ -47,18 +35,6 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516"
   },
-  "1458": {
-    "titre": "Residence Pascal MARTIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
-  },
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
@@ -66,10 +42,6 @@
   "581": {
     "titre": "Montlucon",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/581"
-  },
-  "302": {
-    "titre": "GASTON PHOEBUS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302"
   },
   "291": {
     "titre": "RÃ©sidence de Brive",
@@ -83,16 +55,44 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
-  "3259": {
-    "titre": "MARIE-AMELIE LE FUR",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3259"
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  "494": {
+    "titre": "LE THELEME",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/494"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "1491": {
+    "titre": "La GRAVIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491"
+  },
+  "1567": {
+    "titre": "MAISON DES ETUDIANTS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
+  },
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "915": {
+    "titre": "RESIDENCE CENTRE DE VIE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/915"
+  },
+  "3248": {
+    "titre": "FONTBELLEAU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+  },
+  "3259": {
+    "titre": "MARIE-AMELIE LE FUR",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3259"
   }
 }
