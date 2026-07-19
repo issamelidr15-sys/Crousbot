@@ -39,10 +39,6 @@
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
@@ -67,32 +63,36 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
-  "302": {
-    "titre": "GASTON PHOEBUS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/302"
-  },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
-  "3248": {
-    "titre": "FONTBELLEAU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "2191": {
     "titre": "TANNERIES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191"
+  },
+  "2688": {
+    "titre": "GALILEE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
+  },
+  "1491": {
+    "titre": "La GRAVIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1491"
+  },
+  "1268": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1268"
+  },
+  "1567": {
+    "titre": "MAISON DES ETUDIANTS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
+  },
+  "943": {
+    "titre": "RESIDENCE JULES CAISSO",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/943"
   },
   "540": {
     "titre": "CU VELODROME",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540"
   },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  "494": {
+    "titre": "LE THELEME",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/494"
   }
 }
