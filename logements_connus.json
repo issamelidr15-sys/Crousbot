@@ -1,19 +1,11 @@
 {
-  "2191": {
-    "titre": "TANNERIES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191"
-  },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
   "267": {
     "titre": "CRESSONNIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/267"
   },
-  "522": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
+  "2191": {
+    "titre": "TANNERIES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191"
   },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
@@ -51,25 +43,9 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516"
   },
-  "540": {
-    "titre": "CU VELODROME",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540"
-  },
   "2558": {
     "titre": "ANDRE MALRAUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
-  "1458": {
-    "titre": "Residence Pascal MARTIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
   },
   "1567": {
     "titre": "MAISON DES ETUDIANTS",
@@ -79,8 +55,32 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
-  "252": {
-    "titre": "CU SAURUPT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/252"
+  "540": {
+    "titre": "CU VELODROME",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "1458": {
+    "titre": "Residence Pascal MARTIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
+  },
+  "522": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
+  },
+  "736": {
+    "titre": "CU LA BATELIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  },
+  "195": {
+    "titre": "CU MEDREVILLE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/195"
   }
 }
