@@ -31,10 +31,6 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "291": {
-    "titre": "RÃ©sidence de Brive",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
-  },
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
@@ -51,14 +47,6 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
   },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "1211": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
@@ -67,32 +55,44 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
-  "2558": {
-    "titre": "ANDRE MALRAUX",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
-  },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
-  },
   "315": {
     "titre": "GRANDES ARCADES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
-  },
-  "852": {
-    "titre": "RESIDENCE CHAVANELLE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/852"
-  },
-  "765": {
-    "titre": "CU DOUAUMONT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765"
   },
   "1268": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1268"
   },
+  "1567": {
+    "titre": "MAISON DES ETUDIANTS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
+  },
+  "291": {
+    "titre": "RÃ©sidence de Brive",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "736": {
+    "titre": "CU LA BATELIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  },
   "540": {
     "titre": "CU VELODROME",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540"
+  },
+  "2558": {
+    "titre": "ANDRE MALRAUX",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
+  },
+  "852": {
+    "titre": "RESIDENCE CHAVANELLE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/852"
   }
 }
