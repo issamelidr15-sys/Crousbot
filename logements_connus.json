@@ -7,14 +7,6 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516"
   },
-  "522": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
-  "315": {
-    "titre": "GRANDES ARCADES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
-  },
   "2558": {
     "titre": "ANDRE MALRAUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
@@ -22,10 +14,6 @@
   "2147": {
     "titre": "CRESSONNIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
   "1458": {
     "titre": "Residence Pascal MARTIN",
@@ -63,10 +51,6 @@
     "titre": "MAISON DES ETUDIANTS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
   "2715": {
     "titre": "CITE DE MENDE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
@@ -79,10 +63,6 @@
     "titre": "RÃ©sidence de Brive",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
   },
-  "687": {
-    "titre": "CU JEAN MONNET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/687"
-  },
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
@@ -94,5 +74,25 @@
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "910": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "540": {
+    "titre": "CU VELODROME",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/540"
+  },
+  "522": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
+  },
+  "315": {
+    "titre": "GRANDES ARCADES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
   }
 }
