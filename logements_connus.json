@@ -7,10 +7,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
-  "3106": {
-    "titre": "RÃ©sidence de Felletin",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
-  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
@@ -39,14 +35,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
-  "522": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
   "1623": {
     "titre": "LES COINCHETTES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
@@ -59,12 +47,24 @@
     "titre": "ANDRE MALRAUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
   },
-  "1158": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "2008": {
+    "titre": "CU DAUPHINE BRETAGNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008"
   },
   "2993": {
     "titre": "CU BRIDOUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993"
+  },
+  "522": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
   }
 }
