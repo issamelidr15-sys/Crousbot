@@ -11,10 +11,6 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "2688": {
-    "titre": "GALILEE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
-  },
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
@@ -39,13 +35,13 @@
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   },
-  "522": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
   "1211": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "522": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
   },
   "2608": {
     "titre": "BOSQUET",
@@ -62,5 +58,9 @@
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
+  },
+  "2688": {
+    "titre": "GALILEE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
   }
 }
