@@ -71,10 +71,6 @@
     "titre": "CU DAUPHINE BRETAGNE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008"
   },
-  "270": {
-    "titre": "RÃ©sidence Olympie",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270"
-  },
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
@@ -90,5 +86,9 @@
   "736": {
     "titre": "CU LA BATELIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  },
+  "270": {
+    "titre": "RÃ©sidence Olympie",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270"
   }
 }
