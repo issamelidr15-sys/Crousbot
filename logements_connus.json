@@ -47,10 +47,6 @@
     "titre": "CRESSONNIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147"
   },
-  "2169": {
-    "titre": "CRESSONNIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2169"
-  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
@@ -82,5 +78,9 @@
   "267": {
     "titre": "CRESSONNIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/267"
+  },
+  "2169": {
+    "titre": "CRESSONNIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2169"
   }
 }
