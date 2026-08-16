@@ -1,8 +1,4 @@
 {
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
   "2688": {
     "titre": "GALILEE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
@@ -74,5 +70,9 @@
   "1306": {
     "titre": "Residence RenÃ© THOM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1306"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   }
 }
