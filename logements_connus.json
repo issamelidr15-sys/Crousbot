@@ -67,17 +67,13 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
-  "329": {
-    "titre": "GRANDES ARCADES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/329"
-  },
   "315": {
     "titre": "GRANDES ARCADES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
   },
-  "2255": {
-    "titre": "CITE MOULIN A VENT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255"
+  "329": {
+    "titre": "GRANDES ARCADES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/329"
   },
   "2754": {
     "titre": "RESIDENCE SAINT CESAIRE",
@@ -91,8 +87,12 @@
     "titre": "RESIDENCE SILLAC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/663"
   },
-  "1298": {
-    "titre": "RÃ©sidence Portes du Jura",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1298"
+  "46": {
+    "titre": "CLE DES CHAMPS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   }
 }
