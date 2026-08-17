@@ -67,10 +67,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
-  },
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
@@ -87,12 +83,16 @@
     "titre": "CLE DES CHAMPS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
   },
-  "221": {
-    "titre": "TOM MOREL",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/221"
+  "736": {
+    "titre": "CU LA BATELIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
   },
   "3146": {
     "titre": "MARIE PARADIS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3146"
+  },
+  "584": {
+    "titre": "LUMIERES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584"
   }
 }
