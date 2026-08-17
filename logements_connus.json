@@ -31,10 +31,6 @@
     "titre": "LES COINCHETTES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
   },
-  "1301": {
-    "titre": "Residence RenÃ© THOM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301"
-  },
   "315": {
     "titre": "GRANDES ARCADES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
@@ -67,28 +63,28 @@
     "titre": "CLE DES CHAMPS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
   },
-  "3146": {
-    "titre": "MARIE PARADIS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3146"
-  },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
-  "584": {
-    "titre": "LUMIERES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584"
+  "736": {
+    "titre": "CU LA BATELIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  },
+  "2688": {
+    "titre": "GALILEE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
   },
   "2008": {
     "titre": "CU DAUPHINE BRETAGNE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008"
   },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "1301": {
+    "titre": "Residence RenÃ© THOM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301"
   }
 }
