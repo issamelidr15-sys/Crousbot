@@ -27,17 +27,9 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
   },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
-  },
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
-  "2715": {
-    "titre": "CITE DE MENDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
   },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
@@ -55,21 +47,9 @@
     "titre": "CU DAUPHINE BRETAGNE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008"
   },
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
   "1301": {
     "titre": "Residence RenÃ© THOM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301"
-  },
-  "46": {
-    "titre": "CLE DES CHAMPS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
-  },
-  "1298": {
-    "titre": "RÃ©sidence Portes du Jura",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1298"
   },
   "315": {
     "titre": "GRANDES ARCADES",
@@ -91,8 +71,28 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
-  "2828": {
-    "titre": "BORNES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2828"
+  "736": {
+    "titre": "CU LA BATELIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  },
+  "46": {
+    "titre": "CLE DES CHAMPS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "221": {
+    "titre": "TOM MOREL",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/221"
+  },
+  "1298": {
+    "titre": "RÃ©sidence Portes du Jura",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1298"
+  },
+  "950": {
+    "titre": "DESANTI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950"
   }
 }
