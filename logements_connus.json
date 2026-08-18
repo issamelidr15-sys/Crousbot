@@ -1,8 +1,4 @@
 {
-  "46": {
-    "titre": "CLE DES CHAMPS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
-  },
   "482": {
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
@@ -78,5 +74,9 @@
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "46": {
+    "titre": "CLE DES CHAMPS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
   }
 }
