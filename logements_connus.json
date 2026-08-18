@@ -39,10 +39,6 @@
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "46": {
-    "titre": "CLE DES CHAMPS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
-  },
   "3130": {
     "titre": "CLACTON",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
@@ -67,10 +63,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
-  },
   "2508": {
     "titre": "CLACTON",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
@@ -83,13 +75,21 @@
     "titre": "RESIDENCE GEORGE BESSE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
   },
+  "2639": {
+    "titre": "RESIDENCE ALLIX",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2639"
+  },
+  "46": {
+    "titre": "CLE DES CHAMPS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
+  },
   "2255": {
     "titre": "CITE MOULIN A VENT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255"
   },
-  "2639": {
-    "titre": "RESIDENCE ALLIX",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2639"
+  "736": {
+    "titre": "CU LA BATELIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
   },
   "1879": {
     "titre": "RESIDENCE LES ARCHES AGRIPPA",
