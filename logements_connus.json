@@ -7,10 +7,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
@@ -43,17 +39,9 @@
     "titre": "CRESSONNIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/267"
   },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "123": {
-    "titre": "MOULINS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123"
   },
   "2245": {
     "titre": "RESIDENCE GEORGE BESSE",
@@ -67,13 +55,9 @@
     "titre": "CITE MOULIN A VENT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255"
   },
-  "1132": {
-    "titre": "RESIDENCE MAR I SOL",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132"
-  },
-  "2508": {
-    "titre": "CLACTON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
+  "736": {
+    "titre": "CU LA BATELIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
   },
   "46": {
     "titre": "CLE DES CHAMPS",
@@ -83,16 +67,32 @@
     "titre": "CLACTON",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
   },
+  "2508": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
+  },
+  "123": {
+    "titre": "MOULINS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
   "2639": {
     "titre": "RESIDENCE ALLIX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2639"
   },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
-  },
   "1879": {
     "titre": "RESIDENCE LES ARCHES AGRIPPA",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1879"
+  },
+  "1132": {
+    "titre": "RESIDENCE MAR I SOL",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132"
   }
 }
