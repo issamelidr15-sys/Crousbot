@@ -3,10 +3,6 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "2608": {
-    "titre": "BOSQUET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
-  },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
@@ -26,10 +22,6 @@
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
-  "2008": {
-    "titre": "CU DAUPHINE BRETAGNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008"
   },
   "2688": {
     "titre": "GALILEE",
@@ -51,25 +43,17 @@
     "titre": "CU LA BATELIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
   },
-  "3281": {
-    "titre": "RENE MARAN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3281"
-  },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
-  "342": {
-    "titre": "KATTALIN AGUIRRE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342"
+  "3281": {
+    "titre": "RENE MARAN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3281"
   },
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "599": {
-    "titre": "BIDART",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599"
   },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
@@ -79,12 +63,24 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   },
+  "123": {
+    "titre": "MOULINS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123"
+  },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
-  "123": {
-    "titre": "MOULINS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123"
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "599": {
+    "titre": "BIDART",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599"
+  },
+  "342": {
+    "titre": "KATTALIN AGUIRRE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342"
   }
 }
