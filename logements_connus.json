@@ -47,37 +47,17 @@
     "titre": "GALILEE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
   },
-  "950": {
-    "titre": "DESANTI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
   "1569": {
     "titre": "EUGENE GOYHENECHE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1569"
-  },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
   },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
-  "1458": {
-    "titre": "Residence Pascal MARTIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
   "599": {
     "titre": "BIDART",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599"
-  },
-  "3281": {
-    "titre": "RENE MARAN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3281"
   },
   "342": {
     "titre": "KATTALIN AGUIRRE",
@@ -86,5 +66,21 @@
   "123": {
     "titre": "MOULINS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "1458": {
+    "titre": "Residence Pascal MARTIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
+  },
+  "736": {
+    "titre": "CU LA BATELIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  },
+  "3281": {
+    "titre": "RENE MARAN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3281"
   }
 }
