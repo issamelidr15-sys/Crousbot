@@ -23,10 +23,6 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516"
   },
-  "2688": {
-    "titre": "GALILEE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
-  },
   "1211": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
@@ -59,29 +55,13 @@
     "titre": "RESIDENCE MAR I SOL",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132"
   },
-  "1301": {
-    "titre": "Residence RenÃ© THOM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301"
-  },
-  "2639": {
-    "titre": "RESIDENCE ALLIX",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2639"
-  },
   "267": {
     "titre": "CRESSONNIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/267"
   },
-  "2255": {
-    "titre": "CITE MOULIN A VENT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255"
-  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
-  "1879": {
-    "titre": "RESIDENCE LES ARCHES AGRIPPA",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1879"
   },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
@@ -94,5 +74,25 @@
   "2508": {
     "titre": "CLACTON",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
+  },
+  "123": {
+    "titre": "MOULINS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123"
+  },
+  "2245": {
+    "titre": "RESIDENCE GEORGE BESSE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  },
+  "2255": {
+    "titre": "CITE MOULIN A VENT",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255"
+  },
+  "2639": {
+    "titre": "RESIDENCE ALLIX",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2639"
+  },
+  "1879": {
+    "titre": "RESIDENCE LES ARCHES AGRIPPA",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1879"
   }
 }
