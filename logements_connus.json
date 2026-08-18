@@ -11,10 +11,6 @@
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
@@ -51,18 +47,6 @@
     "titre": "EUGENE GOYHENECHE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1569"
   },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
-  "599": {
-    "titre": "BIDART",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599"
-  },
-  "342": {
-    "titre": "KATTALIN AGUIRRE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342"
-  },
   "123": {
     "titre": "MOULINS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123"
@@ -75,6 +59,14 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
+  "599": {
+    "titre": "BIDART",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
   "736": {
     "titre": "CU LA BATELIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
@@ -82,5 +74,17 @@
   "3281": {
     "titre": "RENE MARAN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3281"
+  },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "342": {
+    "titre": "KATTALIN AGUIRRE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/342"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   }
 }
