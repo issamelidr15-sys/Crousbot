@@ -1,8 +1,4 @@
 {
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
@@ -63,14 +59,6 @@
     "titre": "GRANDES ARCADES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
   },
-  "950": {
-    "titre": "DESANTI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950"
-  },
-  "1586": {
-    "titre": "RONSARD",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1586"
-  },
   "46": {
     "titre": "CLE DES CHAMPS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
@@ -78,5 +66,17 @@
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "950": {
+    "titre": "DESANTI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950"
+  },
+  "1586": {
+    "titre": "RONSARD",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1586"
   }
 }
