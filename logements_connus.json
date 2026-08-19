@@ -27,10 +27,6 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516"
   },
-  "46": {
-    "titre": "CLE DES CHAMPS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
-  },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
@@ -55,14 +51,6 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   },
-  "1458": {
-    "titre": "Residence Pascal MARTIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "1586": {
-    "titre": "RONSARD",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1586"
-  },
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
@@ -71,12 +59,24 @@
     "titre": "CU LA BATELIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
   },
+  "315": {
+    "titre": "GRANDES ARCADES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
+  },
   "950": {
     "titre": "DESANTI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950"
   },
-  "315": {
-    "titre": "GRANDES ARCADES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
+  "1586": {
+    "titre": "RONSARD",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1586"
+  },
+  "46": {
+    "titre": "CLE DES CHAMPS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
+  },
+  "1458": {
+    "titre": "Residence Pascal MARTIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   }
 }
