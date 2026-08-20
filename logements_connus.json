@@ -15,10 +15,6 @@
     "titre": "CU DOUAUMONT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/779"
   },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
@@ -74,5 +70,9 @@
   "291": {
     "titre": "RÃ©sidence de Brive",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
+  },
+  "910": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   }
 }
