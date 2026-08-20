@@ -1,8 +1,4 @@
 {
-  "2608": {
-    "titre": "BOSQUET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
-  },
   "506": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
@@ -19,13 +15,13 @@
     "titre": "GRANDES ARCADES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
   },
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
   "2169": {
     "titre": "CRESSONNIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2169"
-  },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   },
   "1458": {
     "titre": "Residence Pascal MARTIN",
@@ -39,17 +35,9 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
-  },
-  "2688": {
-    "titre": "GALILEE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
   },
   "182": {
     "titre": "RESIDENCE CANIGOU",
@@ -91,8 +79,20 @@
     "titre": "RESIDENCE AIME CESAIRE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2638"
   },
-  "2245": {
-    "titre": "RESIDENCE GEORGE BESSE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  "736": {
+    "titre": "CU LA BATELIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  },
+  "1149": {
+    "titre": "Residence Braudel",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1149"
+  },
+  "3005": {
+    "titre": "Orsay-Georges Charpak",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3005"
+  },
+  "950": {
+    "titre": "DESANTI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950"
   }
 }
