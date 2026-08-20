@@ -15,10 +15,6 @@
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "2169": {
-    "titre": "CRESSONNIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2169"
-  },
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
@@ -75,10 +71,6 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516"
   },
-  "46": {
-    "titre": "CLE DES CHAMPS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/46"
-  },
   "1132": {
     "titre": "RESIDENCE MAR I SOL",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132"
@@ -87,12 +79,20 @@
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
-  "2245": {
-    "titre": "RESIDENCE GEORGE BESSE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
-  },
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "298": {
+    "titre": "RESIDENCE LA GRALLA",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/298"
+  },
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
+  },
+  "950": {
+    "titre": "DESANTI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950"
   }
 }
