@@ -7,10 +7,6 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "3026": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
-  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
@@ -18,6 +14,10 @@
   "2688": {
     "titre": "GALILEE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
+  },
+  "3026": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
   },
   "482": {
     "titre": "PATIO",
@@ -34,10 +34,6 @@
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
-  },
-  "3105": {
-    "titre": "RÃ©sidence de Felletin",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3105"
   },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
@@ -59,13 +55,13 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "599": {
-    "titre": "BIDART",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599"
-  },
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "599": {
+    "titre": "BIDART",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599"
   },
   "1458": {
     "titre": "Residence Pascal MARTIN",
