@@ -35,10 +35,6 @@
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   },
-  "516": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516"
-  },
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
@@ -75,12 +71,16 @@
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   },
+  "599": {
+    "titre": "BIDART",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599"
+  },
   "736": {
     "titre": "CU LA BATELIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
   },
-  "599": {
-    "titre": "BIDART",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599"
+  "516": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516"
   }
 }
