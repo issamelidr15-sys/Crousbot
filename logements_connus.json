@@ -7,6 +7,10 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
+  "3026": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
+  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
@@ -14,14 +18,6 @@
   "2688": {
     "titre": "GALILEE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
-  },
-  "2881": {
-    "titre": "ERLEAK",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881"
-  },
-  "3026": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
   },
   "482": {
     "titre": "PATIO",
@@ -63,24 +59,28 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
   "599": {
     "titre": "BIDART",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
-  },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
+  },
+  "2881": {
+    "titre": "ERLEAK",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881"
+  },
+  "736": {
+    "titre": "CU LA BATELIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
   }
 }
