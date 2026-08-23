@@ -19,10 +19,6 @@
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
   "2881": {
     "titre": "ERLEAK",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881"
@@ -47,10 +43,6 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
@@ -59,13 +51,17 @@
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
   "1508": {
     "titre": "Le FAUBOURG",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1508"
   },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   },
   "482": {
     "titre": "PATIO",
@@ -74,5 +70,9 @@
   "736": {
     "titre": "CU LA BATELIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  },
+  "910": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   }
 }
