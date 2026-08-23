@@ -3,10 +3,6 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
@@ -39,9 +35,13 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "291": {
-    "titre": "RÃ©sidence de Brive",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
+  "66": {
+    "titre": "CU HAUTE MALGRANGE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/66"
+  },
+  "2881": {
+    "titre": "ERLEAK",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881"
   },
   "482": {
     "titre": "PATIO",
@@ -67,6 +67,10 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
@@ -74,9 +78,5 @@
   "2688": {
     "titre": "GALILEE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
-  },
-  "2881": {
-    "titre": "ERLEAK",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881"
   }
 }
