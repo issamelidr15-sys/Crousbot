@@ -1,4 +1,8 @@
 {
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
@@ -6,10 +10,6 @@
   "1211": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
   "3026": {
     "titre": "CROUS COLOC",
@@ -27,10 +27,6 @@
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   },
-  "6": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
-  },
   "2881": {
     "titre": "ERLEAK",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881"
@@ -42,6 +38,14 @@
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "1508": {
+    "titre": "Le FAUBOURG",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1508"
   },
   "482": {
     "titre": "PATIO",
@@ -55,10 +59,6 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
   },
-  "599": {
-    "titre": "BIDART",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/599"
-  },
   "736": {
     "titre": "CU LA BATELIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
@@ -67,12 +67,12 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "2688": {
     "titre": "GALILEE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
+  },
+  "6": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   }
 }
