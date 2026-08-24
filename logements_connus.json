@@ -59,10 +59,6 @@
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
-  "3244": {
-    "titre": "ART DE RIVE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
-  },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
@@ -94,5 +90,9 @@
   "2581": {
     "titre": "AUSONE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2581"
+  },
+  "1458": {
+    "titre": "Residence Pascal MARTIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   }
 }
