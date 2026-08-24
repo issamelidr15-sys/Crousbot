@@ -63,21 +63,9 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
   },
-  "1508": {
-    "titre": "Le FAUBOURG",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1508"
-  },
   "1623": {
     "titre": "LES COINCHETTES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
-  },
-  "206": {
-    "titre": "RESIDENCE TREFILERIE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206"
-  },
-  "1567": {
-    "titre": "MAISON DES ETUDIANTS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
   "736": {
     "titre": "CU LA BATELIERE",
@@ -87,12 +75,24 @@
     "titre": "ERLEAK",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881"
   },
-  "3244": {
-    "titre": "ART DE RIVE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
+  "382": {
+    "titre": "RESIDENCE CANIGOU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/382"
   },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "3146": {
+    "titre": "MARIE PARADIS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3146"
+  },
+  "249": {
+    "titre": "FRANCOIS MAURIAC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/249"
   }
 }
