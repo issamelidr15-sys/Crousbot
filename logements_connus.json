@@ -47,10 +47,6 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "1508": {
-    "titre": "Le FAUBOURG",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1508"
-  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
@@ -74,5 +70,21 @@
   "3026": {
     "titre": "CROUS COLOC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
+  },
+  "1508": {
+    "titre": "Le FAUBOURG",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1508"
+  },
+  "2245": {
+    "titre": "RESIDENCE GEORGE BESSE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  },
+  "2753": {
+    "titre": "RESIDENCE SAINT CESAIRE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2753"
+  },
+  "2754": {
+    "titre": "RESIDENCE SAINT CESAIRE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2754"
   }
 }
