@@ -27,10 +27,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
-  "1877": {
-    "titre": "RESIDENCE PARC KENNEDY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1877"
-  },
   "1623": {
     "titre": "LES COINCHETTES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
@@ -63,6 +59,18 @@
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
+  "3244": {
+    "titre": "ART DE RIVE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
+  },
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "2240": {
+    "titre": "ARANCETTE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240"
+  },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
@@ -75,18 +83,6 @@
     "titre": "BOETIE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/248"
   },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
-  "206": {
-    "titre": "RESIDENCE TREFILERIE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206"
-  },
-  "2240": {
-    "titre": "ARANCETTE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240"
-  },
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
@@ -94,5 +90,9 @@
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "2581": {
+    "titre": "AUSONE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2581"
   }
 }
