@@ -15,17 +15,9 @@
     "titre": "CROUS COLOC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
   },
-  "382": {
-    "titre": "RESIDENCE CANIGOU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/382"
-  },
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   },
   "1224": {
     "titre": "BAZEILLES",
@@ -47,10 +39,6 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
   "2245": {
     "titre": "RESIDENCE GEORGE BESSE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
@@ -59,21 +47,9 @@
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "2881": {
-    "titre": "ERLEAK",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881"
-  },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "569": {
-    "titre": "LUMIERES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/569"
   },
   "315": {
     "titre": "GRANDES ARCADES",
@@ -87,12 +63,36 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
   },
-  "699": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/699"
+  "1508": {
+    "titre": "Le FAUBOURG",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1508"
+  },
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
+  },
+  "206": {
+    "titre": "RESIDENCE TREFILERIE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206"
+  },
+  "1567": {
+    "titre": "MAISON DES ETUDIANTS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
   "736": {
     "titre": "CU LA BATELIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  },
+  "2881": {
+    "titre": "ERLEAK",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881"
+  },
+  "3244": {
+    "titre": "ART DE RIVE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3244"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   }
 }
