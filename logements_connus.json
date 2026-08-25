@@ -1,8 +1,4 @@
 {
-  "3026": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
-  },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
@@ -39,10 +35,6 @@
     "titre": "L'AUBERGE ESPAGNOLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613"
   },
-  "1623": {
-    "titre": "LES COINCHETTES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
-  },
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
@@ -50,10 +42,6 @@
   "506": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
-  },
-  "2581": {
-    "titre": "AUSONE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2581"
   },
   "1458": {
     "titre": "Residence Pascal MARTIN",
@@ -71,17 +59,9 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
-  "249": {
-    "titre": "FRANCOIS MAURIAC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/249"
-  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
-  "382": {
-    "titre": "RESIDENCE CANIGOU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/382"
   },
   "1211": {
     "titre": "BAZEILLES",
@@ -91,8 +71,28 @@
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "1021": {
-    "titre": "CitÃ© Jules Mousseron",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1021"
+  "2688": {
+    "titre": "GALILEE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
+  },
+  "953": {
+    "titre": "EUGENE GOYHENECHE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/953"
+  },
+  "3026": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
+  },
+  "2245": {
+    "titre": "RESIDENCE GEORGE BESSE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  },
+  "2581": {
+    "titre": "AUSONE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2581"
+  },
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
   }
 }
