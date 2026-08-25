@@ -3,10 +3,6 @@
     "titre": "BOETIE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/248"
   },
-  "291": {
-    "titre": "RÃ©sidence de Brive",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
-  },
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
@@ -94,5 +90,9 @@
   "206": {
     "titre": "RESIDENCE TREFILERIE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/206"
+  },
+  "6": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   }
 }
