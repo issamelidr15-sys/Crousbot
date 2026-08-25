@@ -55,10 +55,6 @@
     "titre": "AINARAK",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3242"
   },
-  "315": {
-    "titre": "GRANDES ARCADES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
-  },
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
@@ -79,20 +75,24 @@
     "titre": "FRANCOIS MAURIAC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/249"
   },
-  "1458": {
-    "titre": "Residence Pascal MARTIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "2245": {
+    "titre": "RESIDENCE GEORGE BESSE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
   },
   "953": {
     "titre": "EUGENE GOYHENECHE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/953"
   },
-  "2245": {
-    "titre": "RESIDENCE GEORGE BESSE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  "1356": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
+  },
+  "1596": {
+    "titre": "RONSARD",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1596"
   }
 }
