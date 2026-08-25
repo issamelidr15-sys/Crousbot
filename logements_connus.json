@@ -23,6 +23,14 @@
     "titre": "CROUS COLOC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
   },
+  "522": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
+  },
+  "249": {
+    "titre": "FRANCOIS MAURIAC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/249"
+  },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
@@ -31,17 +39,9 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "522": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
-  "249": {
-    "titre": "FRANCOIS MAURIAC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/249"
   },
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
@@ -71,17 +71,13 @@
     "titre": "L'AUBERGE ESPAGNOLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613"
   },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  "1356": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
   },
   "291": {
     "titre": "RÃ©sidence de Brive",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
-  },
-  "1356": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
   },
   "2881": {
     "titre": "ERLEAK",
@@ -94,5 +90,9 @@
   "953": {
     "titre": "EUGENE GOYHENECHE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/953"
+  },
+  "3145": {
+    "titre": "LOUISE ET COLETTE PERIES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3145"
   }
 }
