@@ -35,10 +35,6 @@
     "titre": "FRANCOIS MAURIAC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/249"
   },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
   "1596": {
     "titre": "RONSARD",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1596"
@@ -50,10 +46,6 @@
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
   "1623": {
     "titre": "LES COINCHETTES",
@@ -94,5 +86,13 @@
   "2245": {
     "titre": "RESIDENCE GEORGE BESSE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  },
+  "6": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
+  },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   }
 }
