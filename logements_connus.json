@@ -35,14 +35,6 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "1458": {
-    "titre": "Residence Pascal MARTIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
@@ -63,36 +55,44 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "1623": {
-    "titre": "LES COINCHETTES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
-  },
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "631": {
-    "titre": "RESIDENCE CANIGOU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631"
   },
   "832": {
     "titre": "RESIDENCE TRAMUNTANA",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832"
   },
+  "506": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
+  },
+  "2715": {
+    "titre": "CITE DE MENDE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
+  },
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
+  },
+  "631": {
+    "titre": "RESIDENCE CANIGOU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631"
+  },
+  "1426": {
+    "titre": "CU Branly",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "1021": {
+    "titre": "CitÃ© Jules Mousseron",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1021"
+  },
   "3248": {
     "titre": "FONTBELLEAU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
-  },
-  "1298": {
-    "titre": "RÃ©sidence Portes du Jura",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1298"
-  },
-  "2287": {
-    "titre": "CITE MOULIN A VENT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2287"
-  },
-  "2255": {
-    "titre": "CITE MOULIN A VENT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255"
   }
 }
