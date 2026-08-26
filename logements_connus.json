@@ -51,14 +51,6 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   },
-  "123": {
-    "titre": "MOULINS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123"
-  },
-  "2715": {
-    "titre": "CITE DE MENDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
-  },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
@@ -83,16 +75,24 @@
     "titre": "CITE MOULIN A VENT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2287"
   },
-  "3248": {
-    "titre": "FONTBELLEAU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
   "2255": {
     "titre": "CITE MOULIN A VENT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255"
   },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  "1298": {
+    "titre": "RÃ©sidence Portes du Jura",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1298"
+  },
+  "3248": {
+    "titre": "FONTBELLEAU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
   }
 }
