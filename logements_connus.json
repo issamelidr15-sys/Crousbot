@@ -23,10 +23,6 @@
     "titre": "L'AUBERGE ESPAGNOLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613"
   },
-  "298": {
-    "titre": "RESIDENCE LA GRALLA",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/298"
-  },
   "2715": {
     "titre": "CITE DE MENDE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
@@ -38,10 +34,6 @@
   "182": {
     "titre": "RESIDENCE CANIGOU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182"
-  },
-  "2191": {
-    "titre": "TANNERIES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2191"
   },
   "291": {
     "titre": "RÃ©sidence de Brive",
@@ -79,20 +71,28 @@
     "titre": "RESIDENCE MAR I SOL",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132"
   },
-  "631": {
-    "titre": "RESIDENCE CANIGOU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631"
-  },
   "2287": {
     "titre": "CITE MOULIN A VENT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2287"
   },
-  "2255": {
-    "titre": "CITE MOULIN A VENT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255"
-  },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   }
 }
