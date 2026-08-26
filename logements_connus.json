@@ -3,10 +3,6 @@
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   },
-  "506": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
-  },
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
@@ -22,10 +18,6 @@
   "613": {
     "titre": "L'AUBERGE ESPAGNOLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613"
-  },
-  "2715": {
-    "titre": "CITE DE MENDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
   },
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
@@ -94,5 +86,13 @@
   "1298": {
     "titre": "RÃ©sidence Portes du Jura",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1298"
+  },
+  "2287": {
+    "titre": "CITE MOULIN A VENT",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2287"
+  },
+  "2255": {
+    "titre": "CITE MOULIN A VENT",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255"
   }
 }
