@@ -55,21 +55,9 @@
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   },
-  "3248": {
-    "titre": "FONTBELLEAU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
-  },
-  "2881": {
-    "titre": "ERLEAK",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2881"
-  },
   "1356": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
-  },
-  "1132": {
-    "titre": "RESIDENCE MAR I SOL",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132"
   },
   "2287": {
     "titre": "CITE MOULIN A VENT",
@@ -94,5 +82,17 @@
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "631": {
+    "titre": "RESIDENCE CANIGOU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631"
+  },
+  "832": {
+    "titre": "RESIDENCE TRAMUNTANA",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832"
+  },
+  "3248": {
+    "titre": "FONTBELLEAU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
   }
 }
