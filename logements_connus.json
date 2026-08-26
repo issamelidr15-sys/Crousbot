@@ -7,14 +7,6 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
   },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
   "291": {
     "titre": "RÃ©sidence de Brive",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
@@ -35,10 +27,6 @@
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
@@ -46,10 +34,6 @@
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "2715": {
-    "titre": "CITE DE MENDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
   },
   "1623": {
     "titre": "LES COINCHETTES",
@@ -75,24 +59,40 @@
     "titre": "FONTBELLEAU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
   },
-  "832": {
-    "titre": "RESIDENCE TRAMUNTANA",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832"
+  "613": {
+    "titre": "L'AUBERGE ESPAGNOLE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613"
   },
-  "2255": {
-    "titre": "CITE MOULIN A VENT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255"
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
   "2287": {
     "titre": "CITE MOULIN A VENT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2287"
   },
-  "613": {
-    "titre": "L'AUBERGE ESPAGNOLE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613"
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
-  "2238": {
-    "titre": "CITE LES GAZELLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2238"
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "832": {
+    "titre": "RESIDENCE TRAMUNTANA",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832"
+  },
+  "123": {
+    "titre": "MOULINS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123"
+  },
+  "2715": {
+    "titre": "CITE DE MENDE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
+  },
+  "1359": {
+    "titre": "CU NOTRE DAME DE LOURDES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1359"
   }
 }
