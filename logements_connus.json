@@ -19,10 +19,6 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "3145": {
-    "titre": "LOUISE ET COLETTE PERIES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3145"
-  },
   "506": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
@@ -51,10 +47,6 @@
     "titre": "LES COINCHETTES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
   },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
@@ -67,17 +59,25 @@
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "3145": {
+    "titre": "LOUISE ET COLETTE PERIES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3145"
+  },
   "3248": {
     "titre": "FONTBELLEAU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   },
   "736": {
     "titre": "CU LA BATELIERE",
