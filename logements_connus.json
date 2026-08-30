@@ -3,14 +3,6 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
   },
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
-  "2715": {
-    "titre": "CITE DE MENDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
-  },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
@@ -39,10 +31,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
@@ -59,10 +47,6 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
   },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
   "3145": {
     "titre": "LOUISE ET COLETTE PERIES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3145"
@@ -75,12 +59,28 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "3248": {
-    "titre": "FONTBELLEAU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "910": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
   "736": {
     "titre": "CU LA BATELIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "3248": {
+    "titre": "FONTBELLEAU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+  },
+  "2715": {
+    "titre": "CITE DE MENDE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
   }
 }
