@@ -15,10 +15,6 @@
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
-  "1623": {
-    "titre": "LES COINCHETTES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
-  },
   "1211": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
@@ -42,6 +38,22 @@
   "1200": {
     "titre": "RÃ©sidence Jean JaurÃ¨s",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1200"
+  },
+  "3026": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
+  },
+  "3248": {
+    "titre": "FONTBELLEAU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+  },
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
+  },
+  "630": {
+    "titre": "RESIDENCE LA GARIDELLE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
   },
   "457": {
     "titre": "PATIO",
@@ -82,17 +94,5 @@
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
-  "2796": {
-    "titre": "RÃ©sidence d'Egletons",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2796"
-  },
-  "2558": {
-    "titre": "ANDRE MALRAUX",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
-  },
-  "2608": {
-    "titre": "BOSQUET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   }
 }
