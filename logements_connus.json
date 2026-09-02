@@ -3,17 +3,17 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/516"
   },
-  "1356": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
   "2796": {
     "titre": "RÃ©sidence d'Egletons",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2796"
   },
-  "3106": {
-    "titre": "RÃ©sidence de Felletin",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  "1356": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
   },
   "1224": {
     "titre": "BAZEILLES",
@@ -27,10 +27,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
   "676": {
     "titre": "RÃ©sidence Jean JaurÃ¨s",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/676"
@@ -38,10 +34,6 @@
   "3026": {
     "titre": "CROUS COLOC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
-  },
-  "866": {
-    "titre": "CHARLEMAGNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/866"
   },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
@@ -51,6 +43,18 @@
     "titre": "L'AUBERGE ESPAGNOLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613"
   },
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "1567": {
+    "titre": "MAISON DES ETUDIANTS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
@@ -59,10 +63,6 @@
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/457"
   },
-  "2608": {
-    "titre": "BOSQUET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
-  },
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
@@ -70,10 +70,6 @@
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
-  "3248": {
-    "titre": "FONTBELLEAU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
   },
   "1458": {
     "titre": "Residence Pascal MARTIN",
@@ -86,6 +82,10 @@
   "2245": {
     "titre": "RESIDENCE GEORGE BESSE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  },
+  "3248": {
+    "titre": "FONTBELLEAU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
   },
   "1939": {
     "titre": "RESIDENCE TOUR MAGNE",
