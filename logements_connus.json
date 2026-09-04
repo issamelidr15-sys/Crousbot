@@ -11,10 +11,6 @@
     "titre": "CROUS COLOC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
   },
-  "3106": {
-    "titre": "RÃ©sidence de Felletin",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
-  },
   "1356": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
@@ -71,10 +67,6 @@
     "titre": "CLACTON",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
   },
-  "2508": {
-    "titre": "CLACTON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
-  },
   "1567": {
     "titre": "MAISON DES ETUDIANTS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
@@ -83,16 +75,24 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
-  "950": {
-    "titre": "DESANTI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950"
-  },
-  "2240": {
-    "titre": "ARANCETTE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240"
-  },
   "2069": {
     "titre": "CU Lann-Trussac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "506": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
+  },
+  "2508": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
   }
 }
