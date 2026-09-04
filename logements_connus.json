@@ -11,10 +11,6 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
   "1623": {
     "titre": "LES COINCHETTES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
@@ -26,22 +22,6 @@
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "2147": {
-    "titre": "CRESSONNIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147"
-  },
-  "2245": {
-    "titre": "RESIDENCE GEORGE BESSE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
   "2608": {
     "titre": "BOSQUET",
@@ -62,6 +42,14 @@
   "2796": {
     "titre": "RÃ©sidence d'Egletons",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2796"
+  },
+  "2147": {
+    "titre": "CRESSONNIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
   "506": {
     "titre": "LE VELUM",
@@ -94,5 +82,17 @@
   "3248": {
     "titre": "FONTBELLEAU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "1158": {
+    "titre": "Residence Duvillard",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
+  },
+  "2245": {
+    "titre": "RESIDENCE GEORGE BESSE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
   }
 }
