@@ -3,25 +3,13 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
   },
-  "522": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
   "613": {
     "titre": "L'AUBERGE ESPAGNOLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613"
   },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "6": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
-  },
-  "1356": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
+  "2715": {
+    "titre": "CITE DE MENDE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
   },
   "1458": {
     "titre": "Residence Pascal MARTIN",
@@ -35,25 +23,9 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   },
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
-  "2715": {
-    "titre": "CITE DE MENDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
-  },
-  "3026": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
-  },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
-  },
-  "482": {
-    "titre": "PATIO",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   },
   "2795": {
     "titre": "RÃ©sidence d'Egletons",
@@ -63,17 +35,9 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
-  "291": {
-    "titre": "RÃ©sidence de Brive",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
-  },
   "736": {
     "titre": "CU LA BATELIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
-  },
-  "2240": {
-    "titre": "ARANCETTE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240"
   },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
@@ -83,16 +47,52 @@
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   },
-  "3248": {
-    "titre": "FONTBELLEAU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+  "2796": {
+    "titre": "RÃ©sidence d'Egletons",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2796"
+  },
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "522": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "910": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
+  },
+  "2688": {
+    "titre": "GALILEE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2688"
   },
   "2069": {
     "titre": "CU Lann-Trussac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069"
   },
-  "2796": {
-    "titre": "RÃ©sidence d'Egletons",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2796"
+  "3026": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
+  },
+  "482": {
+    "titre": "PATIO",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
+  },
+  "1356": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
+  },
+  "2240": {
+    "titre": "ARANCETTE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240"
   }
 }
