@@ -1,8 +1,4 @@
 {
-  "3106": {
-    "titre": "RÃ©sidence de Felletin",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
-  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
@@ -23,17 +19,9 @@
     "titre": "LEONARD DE VINCI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
   },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
   "1211": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
-  "3130": {
-    "titre": "CLACTON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
   },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
@@ -51,10 +39,6 @@
     "titre": "CLACTON",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
   },
-  "3026": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
-  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
@@ -62,14 +46,6 @@
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
-  "736": {
-    "titre": "CU LA BATELIERE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
-  },
-  "687": {
-    "titre": "CU JEAN MONNET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/687"
   },
   "1518": {
     "titre": "CU Quimper",
@@ -83,16 +59,40 @@
     "titre": "RÃ©sidence Gaston Adriensence",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
   },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "736": {
+    "titre": "CU LA BATELIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/736"
+  },
   "2245": {
     "titre": "RESIDENCE GEORGE BESSE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "2715": {
+    "titre": "CITE DE MENDE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
+  },
+  "3130": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
   },
   "2240": {
     "titre": "ARANCETTE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240"
   },
-  "2890": {
-    "titre": "RÃ©sidence Gaston Adriensence",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2890"
+  "2762": {
+    "titre": "LATOUR MAUBOURG",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2762"
   }
 }
