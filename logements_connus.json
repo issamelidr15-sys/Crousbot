@@ -3,17 +3,9 @@
     "titre": "L'AUBERGE ESPAGNOLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613"
   },
-  "1537": {
-    "titre": "LEONARD DE VINCI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
-  },
   "506": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
   "2715": {
     "titre": "CITE DE MENDE",
@@ -39,22 +31,6 @@
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "3026": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
-  },
-  "3130": {
-    "titre": "CLACTON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
   "1518": {
     "titre": "CU Quimper",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1518"
@@ -63,36 +39,56 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "2892": {
-    "titre": "RÃ©sidence Gaston Adriensence",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2892"
-  },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
-  },
-  "2008": {
-    "titre": "CU DAUPHINE BRETAGNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008"
   },
   "1158": {
     "titre": "Residence Duvillard",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
   },
-  "1939": {
-    "titre": "RESIDENCE TOUR MAGNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939"
+  "2245": {
+    "titre": "RESIDENCE GEORGE BESSE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
   "630": {
     "titre": "RESIDENCE LA GARIDELLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
   },
+  "1939": {
+    "titre": "RESIDENCE TOUR MAGNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939"
+  },
+  "1537": {
+    "titre": "LEONARD DE VINCI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
+  },
+  "910": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
+  },
+  "3026": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
   "1567": {
     "titre": "MAISON DES ETUDIANTS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
-  "2245": {
-    "titre": "RESIDENCE GEORGE BESSE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  "3130": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   }
 }
