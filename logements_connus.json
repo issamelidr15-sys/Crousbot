@@ -7,10 +7,6 @@
     "titre": "L'AUBERGE ESPAGNOLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/613"
   },
-  "630": {
-    "titre": "RESIDENCE LA GARIDELLE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
-  },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
@@ -18,14 +14,6 @@
   "6": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
-  },
-  "1458": {
-    "titre": "Residence Pascal MARTIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "1939": {
-    "titre": "RESIDENCE TOUR MAGNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939"
   },
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
@@ -39,13 +27,49 @@
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
+  "2715": {
+    "titre": "CITE DE MENDE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "2903": {
+    "titre": "RÃ©sidence Gaston Adriensence",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
+  },
+  "3026": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
+  },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "2508": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
+  },
+  "1158": {
+    "titre": "Residence Duvillard",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
+  },
+  "482": {
+    "titre": "PATIO",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
+  },
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
   "1537": {
     "titre": "LEONARD DE VINCI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
-  },
-  "1567": {
-    "titre": "MAISON DES ETUDIANTS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
   "1211": {
     "titre": "BAZEILLES",
@@ -55,40 +79,20 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "1158": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
+  "1458": {
+    "titre": "Residence Pascal MARTIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "3026": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
+  "1567": {
+    "titre": "MAISON DES ETUDIANTS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
-  "2245": {
-    "titre": "RESIDENCE GEORGE BESSE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  "659": {
+    "titre": "VILLAGE 5",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/659"
   },
-  "2715": {
-    "titre": "CITE DE MENDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
-  },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
-  "2903": {
-    "titre": "RÃ©sidence Gaston Adriensence",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
-  },
-  "3106": {
-    "titre": "RÃ©sidence de Felletin",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
-  "2608": {
-    "titre": "BOSQUET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  "630": {
+    "titre": "RESIDENCE LA GARIDELLE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
   }
 }
