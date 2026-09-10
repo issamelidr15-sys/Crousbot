@@ -1,23 +1,7 @@
 {
-  "2715": {
-    "titre": "CITE DE MENDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
-  },
-  "506": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
-  },
   "1518": {
     "titre": "CU Quimper",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1518"
-  },
-  "2608": {
-    "titre": "BOSQUET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
@@ -43,10 +27,6 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
   },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
@@ -54,10 +34,6 @@
   "1537": {
     "titre": "LEONARD DE VINCI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
-  },
-  "1567": {
-    "titre": "MAISON DES ETUDIANTS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
   "2886": {
     "titre": "CU Villes DorÃ©es",
@@ -71,28 +47,52 @@
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   },
-  "2071": {
-    "titre": "CITE BOURGONNIER",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2071"
-  },
   "630": {
     "titre": "RESIDENCE LA GARIDELLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
   },
-  "3026": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
+  "2559": {
+    "titre": "RESIDENCE DU PARC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
   },
-  "1579": {
-    "titre": "RESIDENCE TOUR MAGNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1579"
+  "270": {
+    "titre": "RÃ©sidence Olympie",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270"
+  },
+  "1158": {
+    "titre": "Residence Duvillard",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
+  },
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
+  },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "6": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
+  },
+  "506": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
+  },
+  "853": {
+    "titre": "CU Maine",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/853"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "1567": {
+    "titre": "MAISON DES ETUDIANTS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
   "1939": {
     "titre": "RESIDENCE TOUR MAGNE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939"
-  },
-  "2559": {
-    "titre": "RESIDENCE DU PARC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
   }
 }
