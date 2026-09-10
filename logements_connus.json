@@ -3,10 +3,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
@@ -94,5 +90,9 @@
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "270": {
+    "titre": "RÃ©sidence Olympie",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270"
   }
 }
