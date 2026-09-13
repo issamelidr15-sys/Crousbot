@@ -1,15 +1,23 @@
 {
-  "1356": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
+  "482": {
+    "titre": "PATIO",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
+  },
+  "506": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
+  },
+  "635": {
+    "titre": "Residence Duvillard",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/635"
   },
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "1158": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
+  "1356": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
   },
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
@@ -31,9 +39,9 @@
     "titre": "MAISON DES ETUDIANTS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
-  "2069": {
-    "titre": "CU Lann-Trussac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069"
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
   },
   "1211": {
     "titre": "BAZEILLES",
@@ -43,9 +51,29 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "1623": {
-    "titre": "LES COINCHETTES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
+  "1158": {
+    "titre": "Residence Duvillard",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
+  },
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "2508": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
+  },
+  "2069": {
+    "titre": "CU Lann-Trussac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069"
   },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
@@ -59,14 +87,6 @@
     "titre": "CU Villes DorÃ©es",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
   },
-  "2903": {
-    "titre": "RÃ©sidence Gaston Adriensence",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
-  },
-  "2008": {
-    "titre": "CU DAUPHINE BRETAGNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008"
-  },
   "6": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
@@ -74,25 +94,5 @@
   "3026": {
     "titre": "CROUS COLOC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
-  },
-  "482": {
-    "titre": "PATIO",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
-  },
-  "506": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
-  },
-  "630": {
-    "titre": "RESIDENCE LA GARIDELLE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
-  },
-  "635": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/635"
-  },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   }
 }
