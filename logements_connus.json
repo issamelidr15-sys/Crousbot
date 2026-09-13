@@ -3,17 +3,9 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
   },
-  "2608": {
-    "titre": "BOSQUET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
-  },
   "1356": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
-  },
-  "1158": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
   },
   "1567": {
     "titre": "MAISON DES ETUDIANTS",
@@ -27,9 +19,9 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "1623": {
-    "titre": "LES COINCHETTES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
@@ -43,13 +35,13 @@
     "titre": "CROUS COLOC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3026"
   },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
   "853": {
     "titre": "CU Maine",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/853"
+  },
+  "910": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
@@ -91,8 +83,16 @@
     "titre": "CU Quimper",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1518"
   },
-  "635": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/635"
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "630": {
+    "titre": "RESIDENCE LA GARIDELLE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
+  },
+  "1537": {
+    "titre": "LEONARD DE VINCI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
   }
 }
