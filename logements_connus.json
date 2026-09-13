@@ -51,10 +51,6 @@
     "titre": "CU Maine",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/853"
   },
-  "1537": {
-    "titre": "LEONARD DE VINCI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
-  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
@@ -94,5 +90,9 @@
   "1518": {
     "titre": "CU Quimper",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1518"
+  },
+  "635": {
+    "titre": "Residence Duvillard",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/635"
   }
 }
