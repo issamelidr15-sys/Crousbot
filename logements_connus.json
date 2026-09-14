@@ -1,12 +1,4 @@
 {
-  "6": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
@@ -31,17 +23,9 @@
     "titre": "RESIDENCE PARC KENNEDY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1861"
   },
-  "2508": {
-    "titre": "CLACTON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
-  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
-  "3130": {
-    "titre": "CLACTON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
   },
   "1356": {
     "titre": "RÃ©sidence de Souilhac",
@@ -51,6 +35,10 @@
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   },
+  "1537": {
+    "titre": "LEONARD DE VINCI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
+  },
   "1211": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
@@ -58,14 +46,6 @@
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
-  "1158": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
-  },
-  "1537": {
-    "titre": "LEONARD DE VINCI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
   },
   "2886": {
     "titre": "CU Villes DorÃ©es",
@@ -79,17 +59,37 @@
     "titre": "RESIDENCE PARC KENNEDY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1877"
   },
-  "1567": {
-    "titre": "MAISON DES ETUDIANTS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
-  },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
-  "1939": {
-    "titre": "RESIDENCE TOUR MAGNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939"
+  "2069": {
+    "titre": "CU Lann-Trussac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069"
+  },
+  "36": {
+    "titre": "CLE DES CHAMPS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/36"
+  },
+  "506": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "1541": {
+    "titre": "PIERRE GILLES DE GENNES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1541"
+  },
+  "3130": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
+  },
+  "910": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
   "1137": {
     "titre": "RESIDENCE PARC KENNEDY",
