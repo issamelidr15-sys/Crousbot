@@ -31,17 +31,9 @@
     "titre": "RÃ©sidence Alice Milliat",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1384"
   },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "1877": {
     "titre": "RESIDENCE PARC KENNEDY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1877"
-  },
-  "2508": {
-    "titre": "CLACTON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
   },
   "1939": {
     "titre": "RESIDENCE TOUR MAGNE",
@@ -87,12 +79,20 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "1426": {
-    "titre": "CU Branly",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
-  "2552": {
-    "titre": "FEA",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2552"
+  "1828": {
+    "titre": "CU Loucheur",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
+  },
+  "866": {
+    "titre": "CHARLEMAGNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/866"
+  },
+  "2448": {
+    "titre": "BUGEY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2448"
   }
 }
