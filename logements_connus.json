@@ -1,12 +1,4 @@
 {
-  "482": {
-    "titre": "PATIO",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
-  },
-  "3106": {
-    "titre": "RÃ©sidence de Felletin",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
-  },
   "1356": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
@@ -15,21 +7,9 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "630": {
-    "titre": "RESIDENCE LA GARIDELLE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
-  },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
   "2903": {
     "titre": "RÃ©sidence Gaston Adriensence",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
-  },
-  "1158": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
   },
   "6": {
     "titre": "RÃ©sidence de Souilhac",
@@ -47,14 +27,6 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
   "2886": {
     "titre": "CU Villes DorÃ©es",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
@@ -62,10 +34,6 @@
   "2559": {
     "titre": "RESIDENCE DU PARC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
-  },
-  "1471": {
-    "titre": "RESIDENCE ROANNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
   },
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
@@ -83,16 +51,48 @@
     "titre": "MARIE PARADIS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3147"
   },
-  "2071": {
-    "titre": "CITE BOURGONNIER",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2071"
+  "1828": {
+    "titre": "CU Loucheur",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
+  },
+  "3146": {
+    "titre": "MARIE PARADIS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3146"
+  },
+  "482": {
+    "titre": "PATIO",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   },
   "1426": {
     "titre": "CU Branly",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
   },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "3143": {
+    "titre": "LOUISE ET COLETTE PERIES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3143"
+  },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
+  },
+  "1471": {
+    "titre": "RESIDENCE ROANNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
+  },
+  "2071": {
+    "titre": "CITE BOURGONNIER",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2071"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   }
 }
