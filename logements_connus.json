@@ -15,10 +15,6 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   },
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
   "1861": {
     "titre": "RESIDENCE PARC KENNEDY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1861"
@@ -27,21 +23,9 @@
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "2886": {
-    "titre": "CU Villes DorÃ©es",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
-  },
   "1828": {
     "titre": "CU Loucheur",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
-  },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
-  "3248": {
-    "titre": "FONTBELLEAU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
   },
   "1158": {
     "titre": "Residence Duvillard",
@@ -59,10 +43,6 @@
     "titre": "CU Branly",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
   },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "2715": {
     "titre": "CITE DE MENDE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
@@ -70,10 +50,6 @@
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "2069": {
-    "titre": "CU Lann-Trussac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069"
   },
   "1458": {
     "titre": "Residence Pascal MARTIN",
@@ -83,10 +59,6 @@
     "titre": "RESIDENCE ROANNE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
   },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
   "1263": {
     "titre": "RÃ©sidence Jemmapes",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1263"
@@ -94,5 +66,33 @@
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "1356": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
+  },
+  "2886": {
+    "titre": "CU Villes DorÃ©es",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "3248": {
+    "titre": "FONTBELLEAU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+  },
+  "2069": {
+    "titre": "CU Lann-Trussac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069"
   }
 }
