@@ -23,10 +23,6 @@
     "titre": "RESIDENCE PARC KENNEDY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1861"
   },
-  "1356": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
-  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
@@ -39,17 +35,9 @@
     "titre": "CU Loucheur",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
   },
-  "1216": {
-    "titre": "RESIDENCE ROBERVAL",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1216"
-  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
   "3248": {
     "titre": "FONTBELLEAU",
@@ -67,14 +55,6 @@
     "titre": "RÃ©sidence Jemmapes",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1267"
   },
-  "1471": {
-    "titre": "RESIDENCE ROANNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
-  },
-  "1263": {
-    "titre": "RÃ©sidence Jemmapes",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1263"
-  },
   "1426": {
     "titre": "CU Branly",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
@@ -83,16 +63,36 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
-  "2071": {
-    "titre": "CITE BOURGONNIER",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2071"
+  "2715": {
+    "titre": "CITE DE MENDE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
   },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
-  "2715": {
-    "titre": "CITE DE MENDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
+  "2069": {
+    "titre": "CU Lann-Trussac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069"
+  },
+  "1458": {
+    "titre": "Residence Pascal MARTIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
+  },
+  "1471": {
+    "titre": "RESIDENCE ROANNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
+  },
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "1263": {
+    "titre": "RÃ©sidence Jemmapes",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1263"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   }
 }
