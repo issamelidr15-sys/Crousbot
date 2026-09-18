@@ -19,21 +19,9 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "1356": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
-  },
-  "1426": {
-    "titre": "CU Branly",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
-  },
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "1471": {
-    "titre": "RESIDENCE ROANNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
   },
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
@@ -42,26 +30,6 @@
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
-  "1828": {
-    "titre": "CU Loucheur",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
-  },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
-  "1158": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
   "2608": {
     "titre": "BOSQUET",
@@ -75,24 +43,56 @@
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "3248": {
+    "titre": "FONTBELLEAU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "1861": {
+    "titre": "RESIDENCE PARC KENNEDY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1861"
+  },
+  "1137": {
+    "titre": "RESIDENCE PARC KENNEDY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1137"
+  },
+  "2715": {
+    "titre": "CITE DE MENDE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
+  },
+  "1828": {
+    "titre": "CU Loucheur",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
+  },
+  "1356": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
+  },
+  "3242": {
+    "titre": "AINARAK",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3242"
+  },
+  "1426": {
+    "titre": "CU Branly",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  },
   "2886": {
     "titre": "CU Villes DorÃ©es",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
   },
-  "2903": {
-    "titre": "RÃ©sidence Gaston Adriensence",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
-  },
-  "2071": {
-    "titre": "CITE BOURGONNIER",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2071"
-  },
-  "2559": {
-    "titre": "RESIDENCE DU PARC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
-  },
-  "616": {
-    "titre": "RESIDENCE AZIYADE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/616"
+  "2245": {
+    "titre": "RESIDENCE GEORGE BESSE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
   }
 }
