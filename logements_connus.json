@@ -7,10 +7,6 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "1471": {
-    "titre": "RESIDENCE ROANNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
-  },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
@@ -67,10 +63,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
-  "1426": {
-    "titre": "CU Branly",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
-  },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
@@ -86,5 +78,13 @@
   "1158": {
     "titre": "Residence Duvillard",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
+  },
+  "1426": {
+    "titre": "CU Branly",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  },
+  "1471": {
+    "titre": "RESIDENCE ROANNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
   }
 }
