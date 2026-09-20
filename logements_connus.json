@@ -15,10 +15,6 @@
     "titre": "Residence Pascal Paoli 1",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
-  "1828": {
-    "titre": "CU Loucheur",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
-  },
   "1211": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
@@ -35,25 +31,21 @@
     "titre": "RÃ©sidence Jemmapes",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1267"
   },
-  "3106": {
-    "titre": "RÃ©sidence de Felletin",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "1426": {
-    "titre": "CU Branly",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  "2715": {
+    "titre": "CITE DE MENDE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
   },
-  "2477": {
+  "1995": {
     "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
-  "3248": {
-    "titre": "FONTBELLEAU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
-  },
-  "1158": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
+  "2886": {
+    "titre": "CU Villes DorÃ©es",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
   },
   "482": {
     "titre": "PATIO",
@@ -67,24 +59,32 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "1426": {
+    "titre": "CU Branly",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   },
-  "2886": {
-    "titre": "CU Villes DorÃ©es",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
+  "1828": {
+    "titre": "CU Loucheur",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
   },
-  "2608": {
-    "titre": "BOSQUET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  "3248": {
+    "titre": "FONTBELLEAU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
   },
-  "2715": {
-    "titre": "CITE DE MENDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  "1158": {
+    "titre": "Residence Duvillard",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
   }
 }
