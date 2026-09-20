@@ -1,15 +1,7 @@
 {
-  "6": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
-  },
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
   "1211": {
     "titre": "BAZEILLES",
@@ -18,10 +10,6 @@
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
-  "1263": {
-    "titre": "RÃ©sidence Jemmapes",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1263"
   },
   "1267": {
     "titre": "RÃ©sidence Jemmapes",
@@ -47,10 +35,6 @@
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   },
-  "506": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
-  },
   "910": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
@@ -58,10 +42,6 @@
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
@@ -86,5 +66,25 @@
   "1471": {
     "titre": "RESIDENCE ROANNE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "506": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
+  },
+  "1263": {
+    "titre": "RÃ©sidence Jemmapes",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1263"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "6": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   }
 }
