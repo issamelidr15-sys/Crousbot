@@ -15,10 +15,6 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "1426": {
-    "titre": "CU Branly",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
-  },
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
@@ -46,10 +42,6 @@
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
-  "1267": {
-    "titre": "RÃ©sidence Jemmapes",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1267"
   },
   "1158": {
     "titre": "Residence Duvillard",
@@ -79,12 +71,20 @@
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
   },
+  "1263": {
+    "titre": "RÃ©sidence Jemmapes",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1263"
+  },
+  "1426": {
+    "titre": "CU Branly",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  },
   "3248": {
     "titre": "FONTBELLEAU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
   },
-  "1263": {
+  "1267": {
     "titre": "RÃ©sidence Jemmapes",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1263"
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1267"
   }
 }
