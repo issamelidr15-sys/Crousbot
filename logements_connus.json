@@ -1,63 +1,23 @@
 {
-  "506": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
-  },
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
-  "2513": {
-    "titre": "CLACTON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2513"
   },
   "2886": {
     "titre": "CU Villes DorÃ©es",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
   },
-  "123": {
-    "titre": "MOULINS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123"
-  },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
   "1197": {
     "titre": "Residence J.P. Sartre",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
-  },
-  "6": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
-  },
-  "1158": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
   },
   "687": {
     "titre": "CU JEAN MONNET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/687"
   },
-  "2856": {
-    "titre": "Saclay-Eileen Gray",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2856"
-  },
   "3130": {
     "titre": "CLACTON",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
-  },
-  "1458": {
-    "titre": "Residence Pascal MARTIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
   "915": {
     "titre": "RESIDENCE CENTRE DE VIE",
@@ -83,10 +43,6 @@
     "titre": "CU DOUAUMONT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765"
   },
-  "1537": {
-    "titre": "LEONARD DE VINCI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
-  },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
@@ -94,5 +50,49 @@
   "2450": {
     "titre": "RESIDENCE ALPHA CITY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2450"
+  },
+  "2715": {
+    "titre": "CITE DE MENDE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
+  },
+  "2559": {
+    "titre": "RESIDENCE DU PARC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
+  },
+  "1861": {
+    "titre": "RESIDENCE PARC KENNEDY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1861"
+  },
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
+  },
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "2508": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "630": {
+    "titre": "RESIDENCE LA GARIDELLE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
+  },
+  "2245": {
+    "titre": "RESIDENCE GEORGE BESSE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  },
+  "2856": {
+    "titre": "Saclay-Eileen Gray",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2856"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   }
 }
