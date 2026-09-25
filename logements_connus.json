@@ -1,36 +1,4 @@
 {
-  "482": {
-    "titre": "PATIO",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
-  },
-  "123": {
-    "titre": "MOULINS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/123"
-  },
-  "506": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
-  },
-  "630": {
-    "titre": "RESIDENCE LA GARIDELLE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
-  },
-  "687": {
-    "titre": "CU JEAN MONNET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/687"
-  },
-  "765": {
-    "titre": "CU DOUAUMONT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765"
-  },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "915": {
-    "titre": "RESIDENCE CENTRE DE VIE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/915"
-  },
   "6": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
@@ -38,10 +6,6 @@
   "1458": {
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
@@ -75,10 +39,6 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "1137": {
-    "titre": "RESIDENCE PARC KENNEDY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1137"
-  },
   "1158": {
     "titre": "Residence Duvillard",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
@@ -91,8 +51,48 @@
     "titre": "Residence J.P. Sartre",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
   },
+  "2856": {
+    "titre": "Saclay-Eileen Gray",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2856"
+  },
+  "2862": {
+    "titre": "Saclay-Jean d'Ormesson",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
+  },
+  "2886": {
+    "titre": "CU Villes DorÃ©es",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
+  },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "3130": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
+  },
+  "2251": {
+    "titre": "RESIDENCE BEGUINAGES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2251"
+  },
+  "3113": {
+    "titre": "RESIDENCE MARGUERITE YOURCENAR",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3113"
+  },
+  "2551": {
+    "titre": "RESIDENCE HOTOIE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2551"
+  },
   "2450": {
     "titre": "RESIDENCE ALPHA CITY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2450"
+  },
+  "2245": {
+    "titre": "RESIDENCE GEORGE BESSE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2245"
+  },
+  "2993": {
+    "titre": "CU BRIDOUX",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2993"
   }
 }
