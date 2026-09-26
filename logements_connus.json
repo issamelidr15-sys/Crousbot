@@ -3,17 +3,9 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "89": {
-    "titre": "CONDORCET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/89"
-  },
   "1828": {
     "titre": "CU Loucheur",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
-  },
-  "1861": {
-    "titre": "RESIDENCE PARC KENNEDY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1861"
   },
   "1877": {
     "titre": "RESIDENCE PARC KENNEDY",
@@ -27,25 +19,13 @@
     "titre": "LES COINCHETTES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
   },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "1184": {
-    "titre": "Residence J.P. Sartre",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1184"
-  },
   "1197": {
     "titre": "Residence J.P. Sartre",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
-  },
-  "2450": {
-    "titre": "RESIDENCE ALPHA CITY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2450"
   },
   "2147": {
     "titre": "CRESSONNIERE",
@@ -54,10 +34,6 @@
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
-  "482": {
-    "titre": "PATIO",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   },
   "506": {
     "titre": "LE VELUM",
@@ -70,10 +46,6 @@
   "315": {
     "titre": "GRANDES ARCADES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
-  },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
@@ -94,5 +66,33 @@
   "2862": {
     "titre": "Saclay-Jean d'Ormesson",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
+  },
+  "2886": {
+    "titre": "CU Villes DorÃ©es",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
+  },
+  "3025": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3025"
+  },
+  "1640": {
+    "titre": "TAUZIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1640"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "2559": {
+    "titre": "RESIDENCE DU PARC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
+  },
+  "630": {
+    "titre": "RESIDENCE LA GARIDELLE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
   }
 }
