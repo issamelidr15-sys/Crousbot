@@ -1,4 +1,32 @@
 {
+  "482": {
+    "titre": "PATIO",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
+  },
+  "506": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
+  },
+  "584": {
+    "titre": "LUMIERES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584"
+  },
+  "630": {
+    "titre": "RESIDENCE LA GARIDELLE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
+  },
+  "315": {
+    "titre": "GRANDES ARCADES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
+  },
+  "765": {
+    "titre": "CU DOUAUMONT",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765"
+  },
+  "910": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
+  },
   "6": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
@@ -23,9 +51,9 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
   "1537": {
     "titre": "LEONARD DE VINCI",
@@ -38,10 +66,6 @@
   "1623": {
     "titre": "LES COINCHETTES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
-  },
-  "1640": {
-    "titre": "TAUZIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1640"
   },
   "1211": {
     "titre": "BAZEILLES",
@@ -63,10 +87,6 @@
     "titre": "RESIDENCE ALPHA CITY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2450"
   },
-  "2249": {
-    "titre": "VILLAGE 3",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2249"
-  },
   "2282": {
     "titre": "VILLAGE 3",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2282"
@@ -74,25 +94,5 @@
   "2147": {
     "titre": "CRESSONNIERE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2147"
-  },
-  "2546": {
-    "titre": "RESIDENCE EINSTEIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2546"
-  },
-  "2559": {
-    "titre": "RESIDENCE DU PARC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
-  },
-  "1902": {
-    "titre": "VILLAGE 2",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1902"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "2607": {
-    "titre": "CITE BELLE BEILLE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2607"
   }
 }
