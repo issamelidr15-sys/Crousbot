@@ -11,14 +11,6 @@
     "titre": "RESIDENCE PARC KENNEDY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1877"
   },
-  "1458": {
-    "titre": "Residence Pascal MARTIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "1623": {
-    "titre": "LES COINCHETTES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
-  },
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
@@ -59,10 +51,6 @@
     "titre": "FONTBELLEAU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3248"
   },
-  "2856": {
-    "titre": "Saclay-Eileen Gray",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2856"
-  },
   "2862": {
     "titre": "Saclay-Jean d'Ormesson",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
@@ -79,10 +67,6 @@
     "titre": "TAUZIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1640"
   },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
@@ -94,5 +78,21 @@
   "630": {
     "titre": "RESIDENCE LA GARIDELLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "1537": {
+    "titre": "LEONARD DE VINCI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
+  },
+  "2282": {
+    "titre": "VILLAGE 3",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2282"
+  },
+  "482": {
+    "titre": "PATIO",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   }
 }
