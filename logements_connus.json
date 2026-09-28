@@ -3,29 +3,13 @@
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   },
-  "506": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
-  },
   "584": {
     "titre": "LUMIERES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584"
   },
-  "630": {
-    "titre": "RESIDENCE LA GARIDELLE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
-  },
   "315": {
     "titre": "GRANDES ARCADES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
-  },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "1084": {
-    "titre": "RESIDENCE LA METARE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1084"
   },
   "6": {
     "titre": "RÃ©sidence de Souilhac",
@@ -42,10 +26,6 @@
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
   "1623": {
     "titre": "LES COINCHETTES",
@@ -94,5 +74,25 @@
   "2559": {
     "titre": "RESIDENCE DU PARC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
+  },
+  "2608": {
+    "titre": "BOSQUET",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "3025": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3025"
+  },
+  "2856": {
+    "titre": "Saclay-Eileen Gray",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2856"
+  },
+  "2862": {
+    "titre": "Saclay-Jean d'Ormesson",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
   }
 }
