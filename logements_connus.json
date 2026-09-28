@@ -3,14 +3,6 @@
     "titre": "Saclay-Jean d'Ormesson",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
   },
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
-  "1623": {
-    "titre": "LES COINCHETTES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
-  },
   "6": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
@@ -19,33 +11,13 @@
     "titre": "RESIDENCE LA GARIDELLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
   },
-  "2886": {
-    "titre": "CU Villes DorÃ©es",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
-  },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   },
-  "2559": {
-    "titre": "RESIDENCE DU PARC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
-  },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
-  },
-  "1458": {
-    "titre": "Residence Pascal MARTIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
   "1537": {
     "titre": "LEONARD DE VINCI",
@@ -94,5 +66,33 @@
   "3025": {
     "titre": "CROUS COLOC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3025"
+  },
+  "631": {
+    "titre": "RESIDENCE CANIGOU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "1184": {
+    "titre": "Residence J.P. Sartre",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1184"
+  },
+  "832": {
+    "titre": "RESIDENCE TRAMUNTANA",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832"
+  },
+  "2218": {
+    "titre": "RESIDENCE WILSON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2218"
+  },
+  "584": {
+    "titre": "LUMIERES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/584"
   }
 }
