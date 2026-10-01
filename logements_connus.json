@@ -19,13 +19,13 @@
     "titre": "Residence J.P. Sartre",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
   },
-  "3025": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3025"
-  },
   "2886": {
     "titre": "CU Villes DorÃ©es",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
+  },
+  "3025": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3025"
   },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
@@ -35,10 +35,6 @@
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "1426": {
-    "titre": "CU Branly",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
-  },
   "2715": {
     "titre": "CITE DE MENDE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
@@ -47,10 +43,6 @@
     "titre": "ANDRE MALRAUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
   },
-  "315": {
-    "titre": "GRANDES ARCADES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
-  },
   "482": {
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
@@ -58,18 +50,6 @@
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
-  "2069": {
-    "titre": "CU Lann-Trussac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2069"
-  },
-  "2010": {
-    "titre": "CU Alsace",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2010"
   },
   "1981": {
     "titre": "CU Maine",
@@ -94,5 +74,25 @@
   "182": {
     "titre": "RESIDENCE CANIGOU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182"
+  },
+  "522": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
+  },
+  "2774": {
+    "titre": "RESIDENCE ROBERT TATIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2774"
+  },
+  "298": {
+    "titre": "RESIDENCE LA GRALLA",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/298"
+  },
+  "1832": {
+    "titre": "ROLAND BARTHES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1832"
+  },
+  "1047": {
+    "titre": "DR DESFRAY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
   }
 }
