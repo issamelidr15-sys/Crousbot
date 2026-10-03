@@ -1,23 +1,7 @@
 {
-  "522": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
-  "1047": {
-    "titre": "DR DESFRAY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
-  },
-  "1079": {
-    "titre": "DR DESFRAY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1079"
-  },
   "6": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
-  },
-  "1981": {
-    "titre": "CU Maine",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1981"
   },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
@@ -30,14 +14,6 @@
   "1654": {
     "titre": "LES FLANDRES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1654"
-  },
-  "1828": {
-    "titre": "CU Loucheur",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
-  },
-  "1892": {
-    "titre": "CU Patton",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1892"
   },
   "1125": {
     "titre": "DR DUCOUX",
@@ -59,17 +35,9 @@
     "titre": "RESIDENCE ALPHA CITY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2450"
   },
-  "2192": {
-    "titre": "DERODON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2192"
-  },
   "2240": {
     "titre": "ARANCETTE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240"
-  },
-  "2273": {
-    "titre": "CITE LAKANAL",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2273"
   },
   "2546": {
     "titre": "RESIDENCE EINSTEIN",
@@ -79,20 +47,52 @@
     "titre": "ANDRE MALRAUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
   },
-  "2559": {
-    "titre": "RESIDENCE DU PARC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
-  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "2610": {
-    "titre": "RESIDENCE FLORA TRISTAN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2610"
+  "1828": {
+    "titre": "CU Loucheur",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
+  },
+  "1892": {
+    "titre": "CU Patton",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1892"
+  },
+  "522": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
+  },
+  "1047": {
+    "titre": "DR DESFRAY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
   },
   "2762": {
     "titre": "LATOUR MAUBOURG",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2762"
+  },
+  "2862": {
+    "titre": "Saclay-Jean d'Ormesson",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
+  },
+  "2886": {
+    "titre": "CU Villes DorÃ©es",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
+  },
+  "3025": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3025"
+  },
+  "3067": {
+    "titre": "RESIDENCE JEAN ZAY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3067"
+  },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "3130": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
   }
 }
