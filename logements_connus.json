@@ -11,25 +11,13 @@
     "titre": "Residence J.P. Sartre",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
   },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "2240": {
-    "titre": "ARANCETTE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240"
-  },
   "2546": {
     "titre": "RESIDENCE EINSTEIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2546"
-  },
-  "2558": {
-    "titre": "ANDRE MALRAUX",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
   },
   "2608": {
     "titre": "BOSQUET",
@@ -58,10 +46,6 @@
   "3025": {
     "titre": "CROUS COLOC",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3025"
-  },
-  "3067": {
-    "titre": "RESIDENCE JEAN ZAY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3067"
   },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
@@ -94,5 +78,21 @@
   "1426": {
     "titre": "CU Branly",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  },
+  "321": {
+    "titre": "RÃ©sidence Saint Louis",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/321"
+  },
+  "1569": {
+    "titre": "EUGENE GOYHENECHE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1569"
+  },
+  "1471": {
+    "titre": "RESIDENCE ROANNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
+  },
+  "2594": {
+    "titre": "CITE BELLE BEILLE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2594"
   }
 }
