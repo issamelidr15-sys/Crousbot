@@ -3,14 +3,6 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
   },
-  "579": {
-    "titre": "LUMIERES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/579"
-  },
-  "630": {
-    "titre": "RESIDENCE LA GARIDELLE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
-  },
   "1047": {
     "titre": "DR DESFRAY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
@@ -23,25 +15,9 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "1471": {
-    "titre": "RESIDENCE ROANNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
-  },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
   "1981": {
     "titre": "CU Maine",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1981"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
   "1521": {
     "titre": "Residence Pascal Paoli 1",
@@ -67,13 +43,45 @@
     "titre": "DR DUCOUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1125"
   },
-  "1184": {
-    "titre": "Residence J.P. Sartre",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1184"
-  },
   "1197": {
     "titre": "Residence J.P. Sartre",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "2450": {
+    "titre": "RESIDENCE ALPHA CITY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2450"
+  },
+  "2192": {
+    "titre": "DERODON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2192"
+  },
+  "2240": {
+    "titre": "ARANCETTE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2240"
+  },
+  "2273": {
+    "titre": "CITE LAKANAL",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2273"
+  },
+  "2546": {
+    "titre": "RESIDENCE EINSTEIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2546"
+  },
+  "2558": {
+    "titre": "ANDRE MALRAUX",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
+  },
+  "2559": {
+    "titre": "RESIDENCE DU PARC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
   },
   "2608": {
     "titre": "BOSQUET",
@@ -86,13 +94,5 @@
   "2762": {
     "titre": "LATOUR MAUBOURG",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2762"
-  },
-  "2774": {
-    "titre": "RESIDENCE ROBERT TATIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2774"
-  },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
   }
 }
