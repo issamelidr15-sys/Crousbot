@@ -1,12 +1,4 @@
 {
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "1125": {
     "titre": "DR DUCOUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1125"
@@ -14,14 +6,6 @@
   "2555": {
     "titre": "Orsay-Fleming",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2555"
-  },
-  "2608": {
-    "titre": "BOSQUET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
-  },
-  "3025": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3025"
   },
   "2886": {
     "titre": "CU Villes DorÃ©es",
@@ -94,5 +78,21 @@
   "321": {
     "titre": "RÃ©sidence Saint Louis",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/321"
+  },
+  "1861": {
+    "titre": "RESIDENCE PARC KENNEDY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1861"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "765": {
+    "titre": "CU DOUAUMONT",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
   }
 }
