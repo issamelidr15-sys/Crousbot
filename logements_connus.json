@@ -15,10 +15,6 @@
     "titre": "Residence RenÃ© THOM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1314"
   },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "1184": {
     "titre": "Residence J.P. Sartre",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1184"
@@ -26,10 +22,6 @@
   "1197": {
     "titre": "Residence J.P. Sartre",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
-  },
-  "2886": {
-    "titre": "CU Villes DorÃ©es",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
   },
   "3130": {
     "titre": "CLACTON",
@@ -42,10 +34,6 @@
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
-  "3025": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3025"
   },
   "2608": {
     "titre": "BOSQUET",
@@ -71,10 +59,6 @@
     "titre": "DR DESFRAY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1079"
   },
-  "2722": {
-    "titre": "RESIDENCE SAINT-EXUPERY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2722"
-  },
   "765": {
     "titre": "CU DOUAUMONT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765"
@@ -87,12 +71,28 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   },
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
   "1567": {
     "titre": "MAISON DES ETUDIANTS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
+  },
+  "168": {
+    "titre": "RESIDENCE LA DORMERIE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/168"
+  },
+  "1471": {
+    "titre": "RESIDENCE ROANNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
+  },
+  "2450": {
+    "titre": "RESIDENCE ALPHA CITY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2450"
+  },
+  "457": {
+    "titre": "PATIO",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/457"
+  },
+  "2558": {
+    "titre": "ANDRE MALRAUX",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
   }
 }
