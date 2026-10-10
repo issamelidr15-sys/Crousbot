@@ -55,10 +55,6 @@
     "titre": "MAISON DES SCIENTIFIQUES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/394"
   },
-  "749": {
-    "titre": "RESIDENCE EINSTEIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/749"
-  },
   "765": {
     "titre": "CU DOUAUMONT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765"
@@ -87,12 +83,16 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "32": {
-    "titre": "RESIDENCE ALLIX",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/32"
-  },
   "1314": {
     "titre": "Residence RenÃ© THOM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1314"
+  },
+  "1356": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
+  },
+  "1426": {
+    "titre": "CU Branly",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
   }
 }
