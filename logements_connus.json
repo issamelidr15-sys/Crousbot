@@ -1,16 +1,4 @@
 {
-  "224": {
-    "titre": "BOETIE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/224"
-  },
-  "264": {
-    "titre": "RESIDENCE ARCHIMEDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/264"
-  },
-  "293": {
-    "titre": "GASTON PHOEBUS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/293"
-  },
   "457": {
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/457"
@@ -43,18 +31,6 @@
     "titre": "GRANDES ARCADES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
   },
-  "321": {
-    "titre": "RÃ©sidence Saint Louis",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/321"
-  },
-  "341": {
-    "titre": "BASTIDE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/341"
-  },
-  "394": {
-    "titre": "MAISON DES SCIENTIFIQUES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/394"
-  },
   "765": {
     "titre": "CU DOUAUMONT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765"
@@ -66,10 +42,6 @@
   "970": {
     "titre": "MARNE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/970"
-  },
-  "1021": {
-    "titre": "CitÃ© Jules Mousseron",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1021"
   },
   "1047": {
     "titre": "DR DESFRAY",
@@ -94,5 +66,33 @@
   "1426": {
     "titre": "CU Branly",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  },
+  "1458": {
+    "titre": "Residence Pascal MARTIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
+  },
+  "1471": {
+    "titre": "RESIDENCE ROANNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
+  },
+  "1981": {
+    "titre": "CU Maine",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1981"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "1508": {
+    "titre": "Le FAUBOURG",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1508"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "1567": {
+    "titre": "MAISON DES ETUDIANTS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   }
 }
