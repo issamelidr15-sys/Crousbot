@@ -43,13 +43,13 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   },
-  "1224": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
   "1268": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1268"
+  },
+  "1047": {
+    "titre": "DR DESFRAY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
   },
   "1125": {
     "titre": "DR DUCOUX",
@@ -66,6 +66,10 @@
   "1197": {
     "titre": "Residence J.P. Sartre",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
+  },
+  "3032": {
+    "titre": "RESIDENCE ALICE GUY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3032"
   },
   "3106": {
     "titre": "RÃ©sidence de Felletin",
@@ -90,9 +94,5 @@
   "2008": {
     "titre": "CU DAUPHINE BRETAGNE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2008"
-  },
-  "3025": {
-    "titre": "CROUS COLOC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3025"
   }
 }
