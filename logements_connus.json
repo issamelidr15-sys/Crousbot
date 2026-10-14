@@ -11,10 +11,6 @@
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
   },
-  "522": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
   "631": {
     "titre": "RESIDENCE CANIGOU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631"
@@ -31,29 +27,9 @@
     "titre": "RESIDENCE TRAMUNTANA",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832"
   },
-  "6": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
-  },
   "40": {
     "titre": "RÃ©sidence les Dolines",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/40"
-  },
-  "1458": {
-    "titre": "Residence Pascal MARTIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
-  "1567": {
-    "titre": "MAISON DES ETUDIANTS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
   "1211": {
     "titre": "BAZEILLES",
@@ -63,30 +39,6 @@
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   },
-  "1132": {
-    "titre": "RESIDENCE MAR I SOL",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132"
-  },
-  "1184": {
-    "titre": "Residence J.P. Sartre",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1184"
-  },
-  "1197": {
-    "titre": "Residence J.P. Sartre",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
-  "2255": {
-    "titre": "CITE MOULIN A VENT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2255"
-  },
-  "2555": {
-    "titre": "Orsay-Fleming",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2555"
-  },
   "2558": {
     "titre": "ANDRE MALRAUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
@@ -94,5 +46,53 @@
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "2774": {
+    "titre": "RESIDENCE ROBERT TATIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2774"
+  },
+  "3025": {
+    "titre": "CROUS COLOC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3025"
+  },
+  "2150": {
+    "titre": "CITE COUFFON PAVOT",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2150"
+  },
+  "1939": {
+    "titre": "RESIDENCE TOUR MAGNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939"
+  },
+  "2546": {
+    "titre": "RESIDENCE EINSTEIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2546"
+  },
+  "2309": {
+    "titre": "CITE MOULIN A VENT",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2309"
+  },
+  "1426": {
+    "titre": "CU Branly",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  },
+  "2886": {
+    "titre": "CU Villes DorÃ©es",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
+  },
+  "2450": {
+    "titre": "RESIDENCE ALPHA CITY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2450"
+  },
+  "223": {
+    "titre": "RÃ©sidence Les Tertiales",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/223"
+  },
+  "1828": {
+    "titre": "CU Loucheur",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
+  },
+  "1471": {
+    "titre": "RESIDENCE ROANNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
   }
 }
