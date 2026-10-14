@@ -1,8 +1,4 @@
 {
-  "482": {
-    "titre": "PATIO",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
-  },
   "182": {
     "titre": "RESIDENCE CANIGOU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182"
@@ -59,17 +55,9 @@
     "titre": "CITE COUFFON PAVOT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2150"
   },
-  "1939": {
-    "titre": "RESIDENCE TOUR MAGNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1939"
-  },
   "2546": {
     "titre": "RESIDENCE EINSTEIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2546"
-  },
-  "2309": {
-    "titre": "CITE MOULIN A VENT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2309"
   },
   "1426": {
     "titre": "CU Branly",
@@ -94,5 +82,17 @@
   "1471": {
     "titre": "RESIDENCE ROANNE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
+  },
+  "2508": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
+  },
+  "3130": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
+  },
+  "2667": {
+    "titre": "CITE MOULIN A VENT",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2667"
   }
 }
