@@ -1,84 +1,4 @@
 {
-  "209": {
-    "titre": "RÃ©sidence Les Tertiales",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/209"
-  },
-  "223": {
-    "titre": "RÃ©sidence Les Tertiales",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/223"
-  },
-  "270": {
-    "titre": "RÃ©sidence Olympie",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270"
-  },
-  "298": {
-    "titre": "RESIDENCE LA GRALLA",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/298"
-  },
-  "482": {
-    "titre": "PATIO",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
-  },
-  "168": {
-    "titre": "RESIDENCE LA DORMERIE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/168"
-  },
-  "182": {
-    "titre": "RESIDENCE CANIGOU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182"
-  },
-  "198": {
-    "titre": "RÃ©sidence Les Tertiales",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/198"
-  },
-  "506": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
-  },
-  "522": {
-    "titre": "LE VELUM",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
-  "630": {
-    "titre": "RESIDENCE LA GARIDELLE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
-  },
-  "631": {
-    "titre": "RESIDENCE CANIGOU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631"
-  },
-  "315": {
-    "titre": "GRANDES ARCADES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
-  },
-  "325": {
-    "titre": "RÃ©sidence Saint Louis",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/325"
-  },
-  "765": {
-    "titre": "CU DOUAUMONT",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765"
-  },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "832": {
-    "titre": "RESIDENCE TRAMUNTANA",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832"
-  },
-  "1047": {
-    "titre": "DR DESFRAY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
-  },
-  "1079": {
-    "titre": "DR DESFRAY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1079"
-  },
-  "1090": {
-    "titre": "CitÃ© Jules Mousseron",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1090"
-  },
   "6": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
@@ -94,5 +14,85 @@
   "1706": {
     "titre": "RÃ©sidence Newton",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1706"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "1426": {
+    "titre": "CU Branly",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  },
+  "1458": {
+    "titre": "Residence Pascal MARTIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
+  },
+  "1471": {
+    "titre": "RESIDENCE ROANNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "1567": {
+    "titre": "MAISON DES ETUDIANTS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
+  },
+  "1654": {
+    "titre": "LES FLANDRES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1654"
+  },
+  "1828": {
+    "titre": "CU Loucheur",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
+  },
+  "1892": {
+    "titre": "CU Patton",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1892"
+  },
+  "1079": {
+    "titre": "DR DESFRAY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1079"
+  },
+  "1090": {
+    "titre": "CitÃ© Jules Mousseron",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1090"
+  },
+  "1132": {
+    "titre": "RESIDENCE MAR I SOL",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132"
+  },
+  "1158": {
+    "titre": "Residence Duvillard",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
+  },
+  "1184": {
+    "titre": "Residence J.P. Sartre",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1184"
+  },
+  "1197": {
+    "titre": "Residence J.P. Sartre",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
+  },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "2862": {
+    "titre": "Saclay-Jean d'Ormesson",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
+  },
+  "2886": {
+    "titre": "CU Villes DorÃ©es",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
+  },
+  "2897": {
+    "titre": "RÃ©sidence Gaston Adriensence",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2897"
   }
 }
