@@ -35,10 +35,6 @@
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "2774": {
-    "titre": "RESIDENCE ROBERT TATIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2774"
-  },
   "2789": {
     "titre": "Residence Farrandu ETTORI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
@@ -51,13 +47,13 @@
     "titre": "DR DESFRAY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
   },
-  "1643": {
-    "titre": "LES FLANDRES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1643"
-  },
   "3261": {
     "titre": "MARIE-AMELIE LE FUR",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3261"
+  },
+  "1643": {
+    "titre": "LES FLANDRES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1643"
   },
   "2220": {
     "titre": "RESIDENCE GEORGE BESSE",
@@ -94,5 +90,9 @@
   "1690": {
     "titre": "RESIDENCE LES PALMES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1690"
+  },
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
   }
 }
