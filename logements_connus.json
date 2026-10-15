@@ -1,15 +1,7 @@
 {
-  "223": {
-    "titre": "RÃ©sidence Les Tertiales",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/223"
-  },
   "270": {
     "titre": "RÃ©sidence Olympie",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270"
-  },
-  "482": {
-    "titre": "PATIO",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   },
   "168": {
     "titre": "RESIDENCE LA DORMERIE",
@@ -31,25 +23,13 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
-  "832": {
-    "titre": "RESIDENCE TRAMUNTANA",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832"
-  },
   "315": {
     "titre": "GRANDES ARCADES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
   },
-  "325": {
-    "titre": "RÃ©sidence Saint Louis",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/325"
-  },
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
-  "2273": {
-    "titre": "CITE LAKANAL",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2273"
   },
   "2608": {
     "titre": "BOSQUET",
@@ -75,24 +55,44 @@
     "titre": "CU Loucheur",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
   },
-  "1892": {
-    "titre": "CU Patton",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1892"
-  },
   "1079": {
     "titre": "DR DESFRAY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1079"
-  },
-  "2862": {
-    "titre": "Saclay-Jean d'Ormesson",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
   },
   "2886": {
     "titre": "CU Villes DorÃ©es",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
   },
-  "2903": {
-    "titre": "RÃ©sidence Gaston Adriensence",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
+  "1125": {
+    "titre": "DR DUCOUX",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1125"
+  },
+  "1047": {
+    "titre": "DR DESFRAY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
+  },
+  "1643": {
+    "titre": "LES FLANDRES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1643"
+  },
+  "3261": {
+    "titre": "MARIE-AMELIE LE FUR",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3261"
+  },
+  "2220": {
+    "titre": "RESIDENCE GEORGE BESSE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2220"
+  },
+  "2754": {
+    "titre": "RESIDENCE SAINT CESAIRE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2754"
+  },
+  "2309": {
+    "titre": "CITE MOULIN A VENT",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2309"
+  },
+  "506": {
+    "titre": "LE VELUM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
   }
 }
