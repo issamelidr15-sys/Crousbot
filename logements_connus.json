@@ -1,39 +1,23 @@
 {
-  "6": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
-  },
   "1356": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
-  },
-  "1426": {
-    "titre": "CU Branly",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
-  },
-  "1654": {
-    "titre": "LES FLANDRES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1654"
-  },
-  "1079": {
-    "titre": "DR DESFRAY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1079"
   },
   "1268": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1268"
   },
-  "1158": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
-  },
   "1197": {
     "titre": "Residence J.P. Sartre",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
   },
-  "2450": {
-    "titre": "RESIDENCE ALPHA CITY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2450"
+  "2862": {
+    "titre": "Saclay-Jean d'Ormesson",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
+  },
+  "2903": {
+    "titre": "RÃ©sidence Gaston Adriensence",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
   },
   "2508": {
     "titre": "CLACTON",
@@ -46,14 +30,6 @@
   "2558": {
     "titre": "ANDRE MALRAUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
-  },
-  "2608": {
-    "titre": "BOSQUET",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
-  },
-  "1828": {
-    "titre": "CU Loucheur",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
   },
   "270": {
     "titre": "RÃ©sidence Olympie",
@@ -94,5 +70,29 @@
   "765": {
     "titre": "CU DOUAUMONT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765"
+  },
+  "3106": {
+    "titre": "RÃ©sidence de Felletin",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3106"
+  },
+  "3130": {
+    "titre": "CLACTON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
+  },
+  "2886": {
+    "titre": "CU Villes DorÃ©es",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
+  },
+  "223": {
+    "titre": "RÃ©sidence Les Tertiales",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/223"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
   }
 }
