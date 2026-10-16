@@ -1,8 +1,4 @@
 {
-  "1356": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
-  },
   "1268": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1268"
@@ -10,14 +6,6 @@
   "1197": {
     "titre": "Residence J.P. Sartre",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1197"
-  },
-  "2862": {
-    "titre": "Saclay-Jean d'Ormesson",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
-  },
-  "2903": {
-    "titre": "RÃ©sidence Gaston Adriensence",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
   },
   "2508": {
     "titre": "CLACTON",
@@ -79,6 +67,14 @@
     "titre": "CLACTON",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/3130"
   },
+  "2862": {
+    "titre": "Saclay-Jean d'Ormesson",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
+  },
+  "2903": {
+    "titre": "RÃ©sidence Gaston Adriensence",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
+  },
   "2886": {
     "titre": "CU Villes DorÃ©es",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
@@ -94,5 +90,9 @@
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
   }
 }
