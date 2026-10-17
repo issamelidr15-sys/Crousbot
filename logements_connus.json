@@ -1,8 +1,4 @@
 {
-  "168": {
-    "titre": "RESIDENCE LA DORMERIE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/168"
-  },
   "291": {
     "titre": "RÃ©sidence de Brive",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
@@ -59,10 +55,6 @@
     "titre": "AUSONE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2581"
   },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
@@ -79,10 +71,6 @@
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "15": {
-    "titre": "RÃ©sidence Les ClÃ©mentines",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15"
-  },
   "1706": {
     "titre": "RÃ©sidence Newton",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1706"
@@ -94,5 +82,17 @@
   "1356": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
+  },
+  "1426": {
+    "titre": "CU Branly",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
+  },
+  "1458": {
+    "titre": "Residence Pascal MARTIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
+  },
+  "1471": {
+    "titre": "RESIDENCE ROANNE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
   }
 }
