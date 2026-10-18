@@ -3,10 +3,6 @@
     "titre": "RÃ©sidence Les Tertiales",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/223"
   },
-  "227": {
-    "titre": "CitÃ© Jules Mousseron",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/227"
-  },
   "270": {
     "titre": "RÃ©sidence Olympie",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270"
@@ -83,10 +79,6 @@
     "titre": "RÃ©sidence Les ClÃ©mentines",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15"
   },
-  "36": {
-    "titre": "CLE DES CHAMPS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/36"
-  },
   "40": {
     "titre": "RÃ©sidence les Dolines",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/40"
@@ -94,5 +86,13 @@
   "1706": {
     "titre": "RÃ©sidence Newton",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1706"
+  },
+  "1301": {
+    "titre": "Residence RenÃ© THOM",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1301"
+  },
+  "1356": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
   }
 }
