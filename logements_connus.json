@@ -27,10 +27,6 @@
     "titre": "RESIDENCE LA GARIDELLE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/630"
   },
-  "315": {
-    "titre": "GRANDES ARCADES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
-  },
   "325": {
     "titre": "RÃ©sidence Saint Louis",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/325"
@@ -71,18 +67,6 @@
     "titre": "RÃ©sidence le Faron",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2228"
   },
-  "2122": {
-    "titre": "RÃ©sidence le Coudon",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2122"
-  },
-  "2508": {
-    "titre": "CLACTON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
-  },
-  "2546": {
-    "titre": "RESIDENCE EINSTEIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2546"
-  },
   "2555": {
     "titre": "Orsay-Fleming",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2555"
@@ -94,5 +78,21 @@
   "2608": {
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
+  },
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "2862": {
+    "titre": "Saclay-Jean d'Ormesson",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
+  },
+  "2903": {
+    "titre": "RÃ©sidence Gaston Adriensence",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
+  },
+  "1211": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
   }
 }
