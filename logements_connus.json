@@ -1,8 +1,4 @@
 {
-  "223": {
-    "titre": "RÃ©sidence Les Tertiales",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/223"
-  },
   "270": {
     "titre": "RÃ©sidence Olympie",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270"
@@ -35,10 +31,6 @@
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
   },
-  "15": {
-    "titre": "RÃ©sidence Les ClÃ©mentines",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15"
-  },
   "1426": {
     "titre": "CU Branly",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
@@ -47,17 +39,9 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
   "1828": {
     "titre": "CU Loucheur",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
-  },
-  "2450": {
-    "titre": "RESIDENCE ALPHA CITY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2450"
   },
   "2477": {
     "titre": "Residence Pierrette Grimaldi",
@@ -79,10 +63,6 @@
     "titre": "BOSQUET",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2608"
   },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
-  },
   "2862": {
     "titre": "Saclay-Jean d'Ormesson",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
@@ -94,5 +74,25 @@
   "1211": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
+  },
+  "1553": {
+    "titre": "LEONARD DE VINCI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1553"
+  },
+  "1224": {
+    "titre": "BAZEILLES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
+  },
+  "1654": {
+    "titre": "LES FLANDRES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1654"
+  },
+  "1079": {
+    "titre": "DR DESFRAY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1079"
+  },
+  "1125": {
+    "titre": "DR DUCOUX",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1125"
   }
 }
