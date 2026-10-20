@@ -1,20 +1,4 @@
 {
-  "223": {
-    "titre": "RÃ©sidence Les Tertiales",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/223"
-  },
-  "227": {
-    "titre": "CitÃ© Jules Mousseron",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/227"
-  },
-  "270": {
-    "titre": "RÃ©sidence Olympie",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270"
-  },
-  "298": {
-    "titre": "RESIDENCE LA GRALLA",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/298"
-  },
   "482": {
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
@@ -26,10 +10,6 @@
   "182": {
     "titre": "RESIDENCE CANIGOU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/182"
-  },
-  "188": {
-    "titre": "RESIDENCE LA DORMERIE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/188"
   },
   "506": {
     "titre": "LE VELUM",
@@ -47,14 +27,6 @@
     "titre": "RESIDENCE CANIGOU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631"
   },
-  "315": {
-    "titre": "GRANDES ARCADES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/315"
-  },
-  "325": {
-    "titre": "RÃ©sidence Saint Louis",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/325"
-  },
   "765": {
     "titre": "CU DOUAUMONT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/765"
@@ -67,10 +39,6 @@
     "titre": "RESIDENCE CENTRE DE VIE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/915"
   },
-  "950": {
-    "titre": "DESANTI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/950"
-  },
   "832": {
     "titre": "RESIDENCE TRAMUNTANA",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/832"
@@ -78,10 +46,6 @@
   "1047": {
     "titre": "DR DESFRAY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
-  },
-  "1079": {
-    "titre": "DR DESFRAY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1079"
   },
   "1089": {
     "titre": "RESIDENCE GEMINI",
@@ -91,8 +55,44 @@
     "titre": "RÃ©sidence Les ClÃ©mentines",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15"
   },
-  "1706": {
-    "titre": "RÃ©sidence Newton",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1706"
+  "1356": {
+    "titre": "RÃ©sidence de Souilhac",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1356"
+  },
+  "1445": {
+    "titre": "HOTEL DIEU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1445"
+  },
+  "1458": {
+    "titre": "Residence Pascal MARTIN",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
+  },
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
+  },
+  "1521": {
+    "titre": "Residence Pascal Paoli 1",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
+  },
+  "1537": {
+    "titre": "LEONARD DE VINCI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
+  },
+  "1553": {
+    "titre": "LEONARD DE VINCI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1553"
+  },
+  "1567": {
+    "titre": "MAISON DES ETUDIANTS",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
+  },
+  "1623": {
+    "titre": "LES COINCHETTES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1623"
+  },
+  "1643": {
+    "titre": "LES FLANDRES",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1643"
   }
 }
