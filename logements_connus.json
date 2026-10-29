@@ -1,12 +1,4 @@
 {
-  "227": {
-    "titre": "CitÃ© Jules Mousseron",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/227"
-  },
-  "270": {
-    "titre": "RÃ©sidence Olympie",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/270"
-  },
   "291": {
     "titre": "RÃ©sidence de Brive",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
@@ -15,10 +7,6 @@
     "titre": "PATIO",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/482"
   },
-  "188": {
-    "titre": "RESIDENCE LA DORMERIE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/188"
-  },
   "506": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/506"
@@ -26,14 +14,6 @@
   "522": {
     "titre": "LE VELUM",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/522"
-  },
-  "582": {
-    "titre": "RESIDENCE  BARTHOLDI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/582"
-  },
-  "631": {
-    "titre": "RESIDENCE CANIGOU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631"
   },
   "651": {
     "titre": "RESIDENCE CANIGOU",
@@ -58,10 +38,6 @@
   "1995": {
     "titre": "Residence Pierrette Grimaldi",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
   },
   "1567": {
     "titre": "MAISON DES ETUDIANTS",
@@ -94,5 +70,29 @@
   "1159": {
     "titre": "CitÃ© Jules Mousseron",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1159"
+  },
+  "1166": {
+    "titre": "RESIDENCE MAR I SOL",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1166"
+  },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "2228": {
+    "titre": "RÃ©sidence le Faron",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2228"
+  },
+  "2242": {
+    "titre": "RESIDENCE WILSON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2242"
+  },
+  "2555": {
+    "titre": "Orsay-Fleming",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2555"
+  },
+  "2558": {
+    "titre": "ANDRE MALRAUX",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
   }
 }
