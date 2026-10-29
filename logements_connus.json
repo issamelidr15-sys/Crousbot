@@ -7,10 +7,6 @@
     "titre": "RESIDENCE CANIGOU",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/631"
   },
-  "651": {
-    "titre": "RESIDENCE CANIGOU",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/651"
-  },
   "325": {
     "titre": "RÃ©sidence Saint Louis",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/325"
@@ -23,41 +19,17 @@
     "titre": "CU DOUAUMONT",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/779"
   },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
-  "2242": {
-    "titre": "RESIDENCE WILSON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2242"
-  },
-  "2555": {
-    "titre": "Orsay-Fleming",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2555"
-  },
-  "2559": {
-    "titre": "RESIDENCE DU PARC",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "1861": {
-    "titre": "RESIDENCE PARC KENNEDY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1861"
-  },
-  "2010": {
-    "titre": "CU Alsace",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2010"
+  "1047": {
+    "titre": "DR DESFRAY",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
   },
   "6": {
     "titre": "RÃ©sidence de Souilhac",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
   },
-  "1643": {
-    "titre": "LES FLANDRES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1643"
+  "1995": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
   },
   "1263": {
     "titre": "RÃ©sidence Jemmapes",
@@ -66,14 +38,6 @@
   "1268": {
     "titre": "RÃ©sidence de Felletin",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1268"
-  },
-  "1047": {
-    "titre": "DR DESFRAY",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
-  },
-  "1107": {
-    "titre": "CitÃ© Jules Mousseron",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1107"
   },
   "1125": {
     "titre": "DR DUCOUX",
@@ -91,8 +55,44 @@
     "titre": "CitÃ© Jules Mousseron",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1180"
   },
+  "2477": {
+    "titre": "Residence Pierrette Grimaldi",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
+  },
+  "2242": {
+    "titre": "RESIDENCE WILSON",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2242"
+  },
+  "2555": {
+    "titre": "Orsay-Fleming",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2555"
+  },
+  "2559": {
+    "titre": "RESIDENCE DU PARC",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2559"
+  },
+  "2010": {
+    "titre": "CU Alsace",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2010"
+  },
   "2715": {
     "titre": "CITE DE MENDE",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
+  },
+  "2789": {
+    "titre": "Residence Farrandu ETTORI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  },
+  "2862": {
+    "titre": "Saclay-Jean d'Ormesson",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
+  },
+  "2886": {
+    "titre": "CU Villes DorÃ©es",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
+  },
+  "2903": {
+    "titre": "RÃ©sidence Gaston Adriensence",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
   }
 }
