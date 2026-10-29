@@ -43,10 +43,6 @@
     "titre": "MAISON DES ETUDIANTS",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
   },
-  "1643": {
-    "titre": "LES FLANDRES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1643"
-  },
   "1211": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
@@ -66,10 +62,6 @@
   "1132": {
     "titre": "RESIDENCE MAR I SOL",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1132"
-  },
-  "1159": {
-    "titre": "CitÃ© Jules Mousseron",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1159"
   },
   "1166": {
     "titre": "RESIDENCE MAR I SOL",
@@ -94,5 +86,13 @@
   "2558": {
     "titre": "ANDRE MALRAUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2558"
+  },
+  "2715": {
+    "titre": "CITE DE MENDE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2715"
+  },
+  "2756": {
+    "titre": "RÃ©sidence Nouvelle Vague",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2756"
   }
 }
