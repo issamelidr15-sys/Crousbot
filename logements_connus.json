@@ -27,29 +27,13 @@
     "titre": "Residence Pascal MARTIN",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1458"
   },
-  "1471": {
-    "titre": "RESIDENCE ROANNE",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1471"
-  },
-  "1521": {
-    "titre": "Residence Pascal Paoli 1",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1521"
-  },
   "1537": {
     "titre": "LEONARD DE VINCI",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1537"
   },
-  "1567": {
-    "titre": "MAISON DES ETUDIANTS",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1567"
-  },
   "1632": {
     "titre": "LES COINCHETTES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1632"
-  },
-  "1643": {
-    "titre": "LES FLANDRES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1643"
   },
   "1654": {
     "titre": "LES FLANDRES",
@@ -67,17 +51,9 @@
     "titre": "CU Patton",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1892"
   },
-  "1211": {
-    "titre": "BAZEILLES",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1211"
-  },
   "1224": {
     "titre": "BAZEILLES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1224"
-  },
-  "1263": {
-    "titre": "RÃ©sidence Jemmapes",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1263"
   },
   "1268": {
     "titre": "RÃ©sidence de Felletin",
@@ -94,5 +70,29 @@
   "1107": {
     "titre": "CitÃ© Jules Mousseron",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1107"
+  },
+  "1125": {
+    "titre": "DR DUCOUX",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1125"
+  },
+  "1143": {
+    "titre": "CitÃ© Jules Mousseron",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1143"
+  },
+  "1158": {
+    "titre": "Residence Duvillard",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
+  },
+  "1159": {
+    "titre": "CitÃ© Jules Mousseron",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1159"
+  },
+  "1180": {
+    "titre": "CitÃ© Jules Mousseron",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1180"
+  },
+  "2756": {
+    "titre": "RÃ©sidence Nouvelle Vague",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2756"
   }
 }
