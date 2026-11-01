@@ -1,15 +1,7 @@
 {
-  "6": {
-    "titre": "RÃ©sidence de Souilhac",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/6"
-  },
   "15": {
     "titre": "RÃ©sidence Les ClÃ©mentines",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15"
-  },
-  "28": {
-    "titre": "RÃ©sidence les Dolines",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/28"
   },
   "1348": {
     "titre": "CITE BERLIOZ",
@@ -59,14 +51,6 @@
     "titre": "DR DUCOUX",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1125"
   },
-  "1158": {
-    "titre": "Residence Duvillard",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1158"
-  },
-  "1159": {
-    "titre": "CitÃ© Jules Mousseron",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1159"
-  },
   "1180": {
     "titre": "CitÃ© Jules Mousseron",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1180"
@@ -94,5 +78,21 @@
   "2216": {
     "titre": "RÃ©sidence le Faron",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2216"
+  },
+  "2228": {
+    "titre": "RÃ©sidence le Faron",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2228"
+  },
+  "2243": {
+    "titre": "CITE LA BOURGEONNIERE",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2243"
+  },
+  "2273": {
+    "titre": "CITE LAKANAL",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2273"
+  },
+  "2104": {
+    "titre": "CITE CASTERNEAU",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2104"
   }
 }
