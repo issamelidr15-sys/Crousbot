@@ -1,51 +1,15 @@
 {
-  "291": {
-    "titre": "RÃ©sidence de Brive",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/291"
+  "15": {
+    "titre": "RÃ©sidence Les ClÃ©mentines",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/15"
   },
-  "325": {
-    "titre": "RÃ©sidence Saint Louis",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/325"
+  "28": {
+    "titre": "RÃ©sidence les Dolines",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/28"
   },
-  "398": {
-    "titre": "RESIDENCE LES HAUTS DE SAINT AUBIN",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/398"
-  },
-  "910": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/910"
-  },
-  "2477": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2477"
-  },
-  "2216": {
-    "titre": "RÃ©sidence le Faron",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2216"
-  },
-  "2228": {
-    "titre": "RÃ©sidence le Faron",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2228"
-  },
-  "2508": {
-    "titre": "CLACTON",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2508"
-  },
-  "2555": {
-    "titre": "Orsay-Fleming",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2555"
-  },
-  "1918": {
-    "titre": "Gare",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1918"
-  },
-  "1995": {
-    "titre": "Residence Pierrette Grimaldi",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1995"
-  },
-  "2789": {
-    "titre": "Residence Farrandu ETTORI",
-    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2789"
+  "1426": {
+    "titre": "CU Branly",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1426"
   },
   "1458": {
     "titre": "Residence Pascal MARTIN",
@@ -75,9 +39,17 @@
     "titre": "LES FLANDRES",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1654"
   },
+  "1686": {
+    "titre": "CU Beaulieu",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1686"
+  },
   "1828": {
     "titre": "CU Loucheur",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1828"
+  },
+  "1892": {
+    "titre": "CU Patton",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1892"
   },
   "1211": {
     "titre": "BAZEILLES",
@@ -94,5 +66,33 @@
   "1047": {
     "titre": "DR DESFRAY",
     "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1047"
+  },
+  "1089": {
+    "titre": "RESIDENCE GEMINI",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1089"
+  },
+  "1107": {
+    "titre": "CitÃ© Jules Mousseron",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1107"
+  },
+  "1125": {
+    "titre": "DR DUCOUX",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1125"
+  },
+  "2862": {
+    "titre": "Saclay-Jean d'Ormesson",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2862"
+  },
+  "2886": {
+    "titre": "CU Villes DorÃ©es",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2886"
+  },
+  "2897": {
+    "titre": "RÃ©sidence Gaston Adriensence",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2897"
+  },
+  "2903": {
+    "titre": "RÃ©sidence Gaston Adriensence",
+    "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2903"
   }
 }
